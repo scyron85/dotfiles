@@ -1,0 +1,5 @@
+2021/01/22-03:14:13.369 48a27 Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_globalbanks.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/22-03:14:45.372 48999 Level-0 table #5: started
+2021/01/22-03:14:45.377 48999 Level-0 table #5: 816 bytes OK
+2021/01/22-03:14:45.379 48999 Delete type=0 #3
+2021/01/22-03:14:45.379 48999 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

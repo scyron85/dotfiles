@@ -1,0 +1,15 @@
+2021/01/24-14:31:42.267 404f Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dpreview.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/24-14:31:42.267 404f Recovering log #11
+2021/01/24-14:31:42.267 404f Reusing old log /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dpreview.com_0.indexeddb.leveldb/000011.log 
+2021/01/24-15:20:14.931 89dd Level-0 table #15: started
+2021/01/24-15:20:14.932 89dd Level-0 table #15: 190 bytes OK
+2021/01/24-15:20:14.934 89dd Delete type=0 #11
+2021/01/24-15:20:14.934 89dd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/24-15:20:14.934 89dd Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 75 : 1
+2021/01/24-15:20:14.934 89dd Compacting 1@1 + 1@2 files
+2021/01/24-15:20:14.936 89dd Generated table #16@1: 26 keys, 646 bytes
+2021/01/24-15:20:14.936 89dd Compacted 1@1 + 1@2 files => 646 bytes
+2021/01/24-15:20:14.937 89dd compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/24-15:20:14.937 89dd Delete type=2 #9
+2021/01/24-15:20:14.937 89dd Delete type=2 #15
+2021/01/24-15:20:14.938 89dd Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 75 : 1 .. (end); will stop at (end)

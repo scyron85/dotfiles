@@ -1,0 +1,5 @@
+2021/01/21-00:47:28.257 377db Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.endeavouros.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/21-00:48:48.367 37716 Level-0 table #5: started
+2021/01/21-00:48:48.375 37716 Level-0 table #5: 68399 bytes OK
+2021/01/21-00:48:48.376 37716 Delete type=0 #3
+2021/01/21-00:48:48.377 37716 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

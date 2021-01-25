@@ -1,0 +1,17 @@
+2021/01/20-14:59:32.507 5399 Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_website.pagofx.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/20-14:59:32.753 5399 Level-0 table #5: started
+2021/01/20-14:59:32.755 5399 Level-0 table #5: 1225 bytes OK
+2021/01/20-14:59:32.757 5399 Delete type=0 #3
+2021/01/20-14:59:32.757 5399 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/01/20-14:59:40.128 52f5 Level-0 table #7: started
+2021/01/20-14:59:40.130 52f5 Level-0 table #7: 9397 bytes OK
+2021/01/20-14:59:40.132 52f5 Delete type=0 #4
+2021/01/20-14:59:40.132 52f5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/20-14:59:40.133 52f5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x005\x003\x000\x009\x000\x007\x006\x004\x008\x005\x007\x000\x00:\x00w\x00e\x00b\x00:\x007\x000\x001\x00d\x00b\x000\x001\x003\x004\x00a\x004\x00b\x00c\x00c\x00d\x00e\x004\x00a\x005\x00b\x000\x003' @ 108 : 1
+2021/01/20-14:59:40.133 52f5 Compacting 1@1 + 1@2 files
+2021/01/20-14:59:40.135 52f5 Generated table #8@1: 42 keys, 2401 bytes
+2021/01/20-14:59:40.135 52f5 Compacted 1@1 + 1@2 files => 2401 bytes
+2021/01/20-14:59:40.136 52f5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/20-14:59:40.136 52f5 Delete type=2 #5
+2021/01/20-14:59:40.136 52f5 Delete type=2 #7
+2021/01/20-14:59:40.137 52f5 Manual compaction at level-1 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x005\x003\x000\x009\x000\x007\x006\x004\x008\x005\x007\x000\x00:\x00w\x00e\x00b\x00:\x007\x000\x001\x00d\x00b\x000\x001\x003\x004\x00a\x004\x00b\x00c\x00c\x00d\x00e\x004\x00a\x005\x00b\x000\x003' @ 108 : 1 .. (end); will stop at (end)

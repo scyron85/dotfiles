@@ -1,0 +1,8 @@
+2021/01/24-23:07:27.993 37daa Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tradingview.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/24-23:07:27.993 37daa Recovering log #45
+2021/01/24-23:07:27.993 37daa Reusing old log /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tradingview.com_0.indexeddb.leveldb/000045.log 
+2021/01/24-23:10:38.255 3829f Level-0 table #49: started
+2021/01/24-23:10:38.256 3829f Level-0 table #49: 0 bytes OK
+2021/01/24-23:10:38.261 3829f Delete type=0 #45
+2021/01/24-23:10:38.261 38078 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/24-23:10:38.261 38078 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

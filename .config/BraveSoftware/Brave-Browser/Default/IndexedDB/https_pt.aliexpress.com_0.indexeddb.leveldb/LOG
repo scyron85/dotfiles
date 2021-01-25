@@ -1,0 +1,15 @@
+2021/01/24-14:13:31.072 23bf Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pt.aliexpress.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/24-14:13:31.072 23bf Recovering log #7
+2021/01/24-14:13:31.073 23bf Reusing old log /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pt.aliexpress.com_0.indexeddb.leveldb/000007.log 
+2021/01/24-16:39:57.115 1108e Level-0 table #12: started
+2021/01/24-16:39:57.118 1108e Level-0 table #12: 29765 bytes OK
+2021/01/24-16:39:57.119 1108e Delete type=0 #7
+2021/01/24-16:39:57.119 1108e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/24-16:39:57.119 1108e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x06\x00c\x00o\x00o\x00k\x00i\x00e' @ 122 : 1
+2021/01/24-16:39:57.119 1108e Compacting 1@1 + 1@2 files
+2021/01/24-16:39:57.121 1108e Generated table #13@1: 22 keys, 1780 bytes
+2021/01/24-16:39:57.121 1108e Compacted 1@1 + 1@2 files => 1780 bytes
+2021/01/24-16:39:57.122 1108e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/24-16:39:57.122 1108e Delete type=2 #12
+2021/01/24-16:39:57.122 1108e Delete type=2 #9
+2021/01/24-16:39:57.122 1108e Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x06\x00c\x00o\x00o\x00k\x00i\x00e' @ 122 : 1 .. (end); will stop at (end)

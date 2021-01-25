@@ -1,0 +1,17 @@
+2021/01/23-13:19:33.169 41e0 Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_videos.lukesmith.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/23-13:19:46.112 43b3 Level-0 table #5: started
+2021/01/23-13:19:46.156 43b3 Level-0 table #5: 3586786 bytes OK
+2021/01/23-13:19:46.158 43b3 Delete type=0 #3
+2021/01/23-13:19:46.159 43b3 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/01/23-13:19:50.170 43a9 Level-0 table #7: started
+2021/01/23-13:19:50.175 43a9 Level-0 table #7: 6126 bytes OK
+2021/01/23-13:19:50.179 43a9 Delete type=0 #4
+2021/01/23-13:19:50.180 43a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/23-13:19:50.180 43a9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x03\x03\x00\x00\x00\x00\x00\x00X@' @ 2749 : 1
+2021/01/23-13:19:50.180 43a9 Compacting 1@1 + 1@2 files
+2021/01/23-13:19:50.194 43a9 Generated table #8@1: 334 keys, 5839 bytes
+2021/01/23-13:19:50.194 43a9 Compacted 1@1 + 1@2 files => 5839 bytes
+2021/01/23-13:19:50.195 43a9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/23-13:19:50.196 43a9 Delete type=2 #5
+2021/01/23-13:19:50.196 43a9 Delete type=2 #7
+2021/01/23-13:19:50.197 43a9 Manual compaction at level-1 from '\x00\x03\x01\x03\x03\x00\x00\x00\x00\x00\x00X@' @ 2749 : 1 .. (end); will stop at (end)

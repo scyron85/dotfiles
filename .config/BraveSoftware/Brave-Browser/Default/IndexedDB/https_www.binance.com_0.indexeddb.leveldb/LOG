@@ -1,0 +1,15 @@
+2021/01/24-17:50:24.599 182e5 Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/24-17:50:24.600 182e5 Recovering log #35
+2021/01/24-17:50:24.600 182e5 Reusing old log /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/000035.log 
+2021/01/24-17:51:04.848 18640 Level-0 table #40: started
+2021/01/24-17:51:04.850 18640 Level-0 table #40: 16887 bytes OK
+2021/01/24-17:51:04.851 18640 Delete type=0 #35
+2021/01/24-17:51:04.851 18640 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/24-17:51:04.851 18640 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x02!\x03\x00\xa0; fuwB\x00\x01\x0a\x002\x000\x002\x001\x00-\x000\x001\x00-\x002\x004' @ 1750 : 1
+2021/01/24-17:51:04.851 18640 Compacting 1@1 + 1@2 files
+2021/01/24-17:51:04.854 18640 Generated table #41@1: 380 keys, 32491 bytes
+2021/01/24-17:51:04.854 18640 Compacted 1@1 + 1@2 files => 32491 bytes
+2021/01/24-17:51:04.855 18640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/24-17:51:04.855 18640 Delete type=2 #40
+2021/01/24-17:51:04.855 18640 Delete type=2 #37
+2021/01/24-17:51:04.855 18640 Manual compaction at level-1 from '\x00\x05\x02!\x03\x00\xa0; fuwB\x00\x01\x0a\x002\x000\x002\x001\x00-\x000\x001\x00-\x002\x004' @ 1750 : 1 .. (end); will stop at (end)

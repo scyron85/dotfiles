@@ -1,0 +1,4 @@
+xrdb -load ~/.Xresources
+dwmblocks &
+pacwall &
+exec dwm

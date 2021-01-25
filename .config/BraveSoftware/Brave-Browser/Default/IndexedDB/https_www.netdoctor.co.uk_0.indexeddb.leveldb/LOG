@@ -1,0 +1,5 @@
+2021/01/25-11:41:56.835 17ddc Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netdoctor.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/25-11:42:29.640 17d7d Level-0 table #5: started
+2021/01/25-11:42:29.642 17d7d Level-0 table #5: 3484 bytes OK
+2021/01/25-11:42:29.643 17d7d Delete type=0 #3
+2021/01/25-11:42:29.644 17d7d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

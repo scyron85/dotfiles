@@ -1,0 +1,5 @@
+2021/01/20-00:03:21.296 9441 Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/20-00:04:15.318 9550 Level-0 table #5: started
+2021/01/20-00:04:15.320 9550 Level-0 table #5: 1262 bytes OK
+2021/01/20-00:04:15.322 9550 Delete type=0 #3
+2021/01/20-00:04:15.323 9550 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

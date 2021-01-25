@@ -1,0 +1,272 @@
+(C) 2021-01-01T00:14:15 - File sizes mismatch for torrent 'The Conformist (1970) 1080p BRrip_sujaidr'. Cannot proceed further.
+(C) 2021-01-01T00:14:15 - File sizes mismatch for torrent 'Twin Peaks Complete Series BRRip 720p x264 aac 5.1 + English Subs'. Cannot proceed further.
+(C) 2021-01-01T00:14:15 - File sizes mismatch for torrent 'Tenet.2020.1080p.BluRay.AVC.DTS-HD.MA.5.1-ESiR'. Cannot proceed further.
+(N) 2021-01-01T00:14:16 - 'The.Duellists.1977.1080p.BluRay.H264.AAC-RARBG' added to download list.
+(C) 2021-01-01T00:16:50 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-01-01T00:16:50 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2021-01-01T00:17:30 - qBittorrent v4.3.1 started
+(N) 2021-01-01T00:17:30 - Using config directory: /home/senit/.config/qBittorrent/
+(N) 2021-01-01T00:17:31 - 'The.Duellists.1977.1080p.BluRay.x265-RARBG' added to download list.
+(I) 2021-01-01T00:37:06 - UPnP / NAT-PMP support [OFF]
+(N) 2021-01-02T19:44:10 - qBittorrent v4.3.1 started
+(N) 2021-01-02T19:44:10 - Using config directory: /home/senit/.config/qBittorrent/
+(I) 2021-01-02T19:44:10 - Trying to listen on: 0.0.0.0:37969,[::]:37969
+(N) 2021-01-02T19:44:10 - Peer ID: -qB4310-
+(N) 2021-01-02T19:44:10 - HTTP User-Agent is 'qBittorrent/4.3.1'
+(I) 2021-01-02T19:44:10 - DHT support [ON]
+(I) 2021-01-02T19:44:10 - Local Peer Discovery support [ON]
+(I) 2021-01-02T19:44:10 - PeX support [ON]
+(I) 2021-01-02T19:44:10 - Anonymous mode [OFF]
+(I) 2021-01-02T19:44:10 - Encryption support [ON]
+(I) 2021-01-02T19:44:10 - UPnP / NAT-PMP support [ON]
+(I) 2021-01-02T19:44:10 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Dec 1 02:32:32 2020.
+(W) 2021-01-02T19:44:10 - Failed to load UI theme from file: "/home/senit/mumble-dark.qbtheme"
+(N) 2021-01-02T19:44:11 - Options were saved successfully.
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: 127.0.0.1, port: TCP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: 127.0.0.1, port: UDP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: 10.42.0.1, port: TCP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: 10.42.0.1, port: UDP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: 192.168.1.157, port: TCP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: 192.168.1.157, port: UDP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: ::1, port: TCP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: ::1, port: UDP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: fe80::26c6:b07b:f43b:8537%enp5s0, port: TCP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: fe80::26c6:b07b:f43b:8537%enp5s0, port: UDP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: 2804:431:cfcf:de2d::4ba, port: TCP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: 2804:431:cfcf:de2d::4ba, port: UDP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: fd34:5880:901d::4ba, port: TCP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: fd34:5880:901d::4ba, port: UDP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: fd34:5880:901d:0:43bb:ad3b:abf2:344c, port: TCP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: fd34:5880:901d:0:43bb:ad3b:abf2:344c, port: UDP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: 2804:431:cfcf:de2d:818f:d295:8dd7:c952, port: TCP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: 2804:431:cfcf:de2d:818f:d295:8dd7:c952, port: UDP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: fe80::f7b8:9729:e507:f4a6%enp6s0u1u1, port: TCP/37969
+(I) 2021-01-02T19:44:11 - Successfully listening on IP: fe80::f7b8:9729:e507:f4a6%enp6s0u1u1, port: UDP/37969
+(I) 2021-01-02T19:44:11 - Detected external IP: 177.95.223.159
+(N) 2021-01-02T19:44:11 - '1917.2019.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.A' restored.
+(N) 2021-01-02T19:44:11 - 'The Talented Mr Ripley 1999 1080p BluRay x264 DTS-WiKi [MovietaM' restored.
+(N) 2021-01-02T19:44:11 - 'The.Dark.Valley.2014.GERMAN.720p.BluRay.H264.AAC-VXT' restored.
+(N) 2021-01-02T19:44:11 - 'The.Duellists.1977.1080p.BluRay.x265-RARBG' restored.
+(N) 2021-01-02T19:44:11 - 'Insomnia.2002.1080p.BluRay.x264-CiNEFiLE' restored.
+(N) 2021-01-02T19:44:11 - 'Assimil - Deutsch ohne Mühe 1950' restored.
+(N) 2021-01-02T19:44:11 - 'Fallen.Angels.1995.CHINESE.1080p.BluRay.H264.AAC-VXT' restored.
+(N) 2021-01-02T19:44:11 - 'Tenet.2020.1080p.KOR.HDCAM.H264.AAC-Enfitt.mkv' restored.
+(N) 2021-01-02T19:44:11 - 'The.Dark.Valley.2014.GERMAN.1080p.BluRay.H264.AAC-VXT' restored.
+(N) 2021-01-02T19:44:11 - 'Red.Desert.1964.PROPER.1080p.BluRay.x264-SADPANDA[rarbg]' restored.
+(N) 2021-01-02T19:44:11 - 'The.Duellists.1977.1080p.BluRay.H264.AAC-RARBG' restored.
+(N) 2021-01-02T19:44:11 - 'Decalogue.[Dekalog].1989.PAL.1080p.BluRay.x264.FLAC.HORiZON-ArtSubs' restored.
+(N) 2021-01-02T19:44:11 - 'Helvetica fonts complete' restored.
+(N) 2021-01-02T19:44:11 - 'Mikey And Nicky (1976) Criterion (1080p BluRay X265 HEVC 10bit AAC 1.0 Tigole) [QxR]' restored.
+(N) 2021-01-02T19:44:11 - 'assimil_collection' restored.
+(N) 2021-01-02T19:44:11 - 'The.Dark.Valley.2014.1080p.BluRay.x264-PHOBOS[rarbg]' restored.
+(N) 2021-01-02T19:44:11 - 'Red.Desert.1964.1080p.Criterion.Bluray.DTS.x264-GCJM' restored.
+(N) 2021-01-02T19:44:11 - 'The.Assassination.Of.Jesse.James.By.The.Coward.Robert.Ford.2007.1080p.BluRay.H264.AAC-RARBG' restored.
+(N) 2021-01-02T19:44:11 - 'Never.Look.Away.2018.1080p.BluRay.x264-CiNEFiLE[rarbg]' restored.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent 'Red.Desert.1964.PROPER.1080p.BluRay.x264-SADPANDA[rarbg]'. Cannot proceed further.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent 'The.Duellists.1977.1080p.BluRay.H264.AAC-RARBG'. Cannot proceed further.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent 'Decalogue.[Dekalog].1989.PAL.1080p.BluRay.x264.FLAC.HORiZON-ArtSubs'. Cannot proceed further.
+(N) 2021-01-02T19:44:11 - 'Baker A.E., Hengeveld K. - Linguistics - 2012.pdf' restored.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent '1917.2019.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.A'. Cannot proceed further.
+(N) 2021-01-02T19:44:11 - 'The Dark Valley 2014 1080p BluRay x264 DTS-JYK' restored.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent 'Helvetica fonts complete'. Cannot proceed further.
+(N) 2021-01-02T19:44:11 - 'TENET.2020.1080P.CHINESESUB.HDTS.X264.AAC-BabyTorrent' restored.
+(N) 2021-01-02T19:44:11 - 'Tenet.2020.1080p.KOREAN.CAM.H264.AC3.WARRIORS' restored.
+(N) 2021-01-02T19:44:11 - 'The Young Pope Season 1 Mp4 1080p' restored.
+(N) 2021-01-02T19:44:11 - 'The.Story.of.Adele.H.1975.1080p.BluRay.x264-MELiTE' restored.
+(N) 2021-01-02T19:44:11 - '테넷 (캠버전) TENET.2020.720p.KOR.DTC.H264.AAC-RTM.mkv' restored.
+(N) 2021-01-02T19:44:11 - 'Tenet.2020.IMAX.1080p.BluRay.x264.DTS-HD.MA.5.1-FGT' restored.
+(N) 2021-01-02T19:44:11 - 'Cinema.Paradiso.1988.DC.ITALIAN.1080p.BluRay.H264.AAC-VXT' restored.
+(N) 2021-01-02T19:44:11 - 'The Rounders (1965) [1080p] [BluRay] [YTS.MX]' restored.
+(N) 2021-01-02T19:44:11 - 'The.Dark.Valley.2014.DVDRip.Aac.Ita.Ger.x264-lizaliza.mkv' restored.
+(N) 2021-01-02T19:44:11 - '1d9b96cccff3d3422198adad7988c826' restored.
+(I) 2021-01-02T19:44:11 - Detected external IP: 2804:431:cfcf:de2d:818f:d295:8dd7:c952
+(N) 2021-01-02T19:44:11 - 'The.Piano.Teacher.2001.Criterion.1080p.BluRay.HEVC.EAC3-SARTRE' restored.
+(N) 2021-01-02T19:44:11 - '1917.2019.iNTERNAL.RERiP.HDR10Plus.2160p.UHD.BluRay.x265.JustWatch' restored.
+(N) 2021-01-02T19:44:11 - 'Twin Peaks Complete Series BRRip 720p x264 aac 5.1 + English Subs' restored.
+(N) 2021-01-02T19:44:11 - 'Rounders.1998.1080p.BluRay.H264.AAC-RARBG' restored.
+(N) 2021-01-02T19:44:11 - 'Assimil - Norwegisch ohne Mühe CD-ROM plus Audios [Alcohol Image by flofi].rar' restored.
+(N) 2021-01-02T19:44:11 - 'Good.Time.2017.1080p.WEB-DL.DD5.1.H264-FGT' restored.
+(N) 2021-01-02T19:44:11 - 'The.Talented.Mr.Ripley.1999.1080p.Bluray.x264.anoXmous' restored.
+(N) 2021-01-02T19:44:11 - 'Red Desert (1964) BluRay 1080p YTS [YIFY]' restored.
+(N) 2021-01-02T19:44:11 - 'Corngold Stanley, Gross Ruth V. (Edited) - Kafka for the Twenty-First Century - 2011.pdf' restored.
+(N) 2021-01-02T19:44:11 - 'Tenet.2020.1080p.BluRay.AVC.DTS-HD.MA.5.1-ESiR' restored.
+(N) 2021-01-02T19:44:11 - 'd76c1af04f09b88c5519b841a1a2fe4b' restored.
+(N) 2021-01-02T19:44:11 - 'Days.Of.Heaven.1978.1080p.BluRay.x264-HANGOVER' restored.
+(N) 2021-01-02T19:44:11 - 'The Conformist (1970) 1080p BRrip_sujaidr' restored.
+(N) 2021-01-02T19:44:11 - 'Never.Look.Away.2018.GERMAN.1080p.BluRay.x265-VXT' restored.
+(N) 2021-01-02T19:44:11 - 'Frederic Delavier - Strength Training Anatomy (first and second edition)' restored.
+(I) 2021-01-02T19:44:11 - Detected external IP: 2804:431:cfcf:de2d::4ba
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent 'The.Story.of.Adele.H.1975.1080p.BluRay.x264-MELiTE'. Cannot proceed further.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent 'Cinema.Paradiso.1988.DC.ITALIAN.1080p.BluRay.H264.AAC-VXT'. Cannot proceed further.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent 'Tenet.2020.IMAX.1080p.BluRay.x264.DTS-HD.MA.5.1-FGT'. Cannot proceed further.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent 'The Young Pope Season 1 Mp4 1080p'. Cannot proceed further.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent 'Good.Time.2017.1080p.WEB-DL.DD5.1.H264-FGT'. Cannot proceed further.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent 'Corngold Stanley, Gross Ruth V. (Edited) - Kafka for the Twenty-First Century - 2011.pdf'. Cannot proceed further.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent 'Red Desert (1964) BluRay 1080p YTS [YIFY]'. Cannot proceed further.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent '1917.2019.iNTERNAL.RERiP.HDR10Plus.2160p.UHD.BluRay.x265.JustWatch'. Cannot proceed further.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent 'Frederic Delavier - Strength Training Anatomy (first and second edition)'. Cannot proceed further.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent 'The Conformist (1970) 1080p BRrip_sujaidr'. Cannot proceed further.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent 'Twin Peaks Complete Series BRRip 720p x264 aac 5.1 + English Subs'. Cannot proceed further.
+(C) 2021-01-02T19:44:11 - File sizes mismatch for torrent 'Tenet.2020.1080p.BluRay.AVC.DTS-HD.MA.5.1-ESiR'. Cannot proceed further.
+(I) 2021-01-02T19:44:12 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Dec 31 22:03:39 2020.
+(I) 2021-01-02T19:44:12 - Successfully updated IP geolocation database.
+(N) 2021-01-02T19:44:13 - 'Cold.Mountain.2003.1080p.BluRay.H264.AAC-RARBG' added to download list.
+(C) 2021-01-02T19:46:46 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-01-02T19:46:46 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2021-01-02T22:05:57 - Successfully listening on IP: 192.168.1.157, port: TCP/37969
+(I) 2021-01-02T22:05:57 - Successfully listening on IP: 192.168.1.157, port: UDP/37969
+(I) 2021-01-02T22:05:58 - Successfully listening on IP: fe80::f7b8:9729:e507:f4a6%enp6s0u1u1, port: TCP/37969
+(I) 2021-01-02T22:05:58 - Successfully listening on IP: fe80::f7b8:9729:e507:f4a6%enp6s0u1u1, port: UDP/37969
+(I) 2021-01-02T22:06:00 - Successfully listening on IP: fd34:5880:901d:0:43bb:ad3b:abf2:344c, port: TCP/37969
+(I) 2021-01-02T22:06:00 - Successfully listening on IP: fd34:5880:901d:0:43bb:ad3b:abf2:344c, port: UDP/37969
+(I) 2021-01-02T22:06:00 - Successfully listening on IP: 2804:431:cfcf:de2d:818f:d295:8dd7:c952, port: TCP/37969
+(I) 2021-01-02T22:06:00 - Successfully listening on IP: 2804:431:cfcf:de2d:818f:d295:8dd7:c952, port: UDP/37969
+(I) 2021-01-02T22:06:01 - Successfully listening on IP: 2804:431:cfcf:de2d::4ba, port: TCP/37969
+(I) 2021-01-02T22:06:01 - Successfully listening on IP: 2804:431:cfcf:de2d::4ba, port: UDP/37969
+(I) 2021-01-02T22:06:01 - Successfully listening on IP: fd34:5880:901d::4ba, port: TCP/37969
+(I) 2021-01-02T22:06:01 - Successfully listening on IP: fd34:5880:901d::4ba, port: UDP/37969
+(C) 2021-01-02T22:08:33 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-01-02T22:08:33 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2021-01-03T00:06:11 - UPnP / NAT-PMP support [OFF]
+(N) 2021-01-03T15:17:46 - qBittorrent v4.3.1 started
+(N) 2021-01-03T15:17:46 - Using config directory: /home/senit/.config/qBittorrent/
+(I) 2021-01-03T15:17:46 - Trying to listen on: 0.0.0.0:37969,[::]:37969
+(N) 2021-01-03T15:17:46 - Peer ID: -qB4310-
+(N) 2021-01-03T15:17:46 - HTTP User-Agent is 'qBittorrent/4.3.1'
+(I) 2021-01-03T15:17:46 - DHT support [ON]
+(I) 2021-01-03T15:17:46 - Local Peer Discovery support [ON]
+(I) 2021-01-03T15:17:46 - PeX support [ON]
+(I) 2021-01-03T15:17:46 - Anonymous mode [OFF]
+(I) 2021-01-03T15:17:46 - Encryption support [ON]
+(I) 2021-01-03T15:17:46 - UPnP / NAT-PMP support [ON]
+(I) 2021-01-03T15:17:46 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Dec 31 22:03:39 2020.
+(W) 2021-01-03T15:17:46 - Failed to load UI theme from file: "/home/senit/mumble-dark.qbtheme"
+(N) 2021-01-03T15:17:47 - Options were saved successfully.
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: 127.0.0.1, port: TCP/37969
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: 127.0.0.1, port: UDP/37969
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: 192.168.1.157, port: TCP/37969
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: 192.168.1.157, port: UDP/37969
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: ::1, port: TCP/37969
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: ::1, port: UDP/37969
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: 2804:431:cfcf:de2d::f8c, port: TCP/37969
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: 2804:431:cfcf:de2d::f8c, port: UDP/37969
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: fd34:5880:901d::f8c, port: TCP/37969
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: fd34:5880:901d::f8c, port: UDP/37969
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: fd34:5880:901d:0:43bb:ad3b:abf2:344c, port: TCP/37969
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: fd34:5880:901d:0:43bb:ad3b:abf2:344c, port: UDP/37969
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: 2804:431:cfcf:de2d:818f:d295:8dd7:c952, port: TCP/37969
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: 2804:431:cfcf:de2d:818f:d295:8dd7:c952, port: UDP/37969
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: fe80::f7b8:9729:e507:f4a6%enp6s0u1u1, port: TCP/37969
+(I) 2021-01-03T15:17:47 - Successfully listening on IP: fe80::f7b8:9729:e507:f4a6%enp6s0u1u1, port: UDP/37969
+(I) 2021-01-03T15:17:47 - Detected external IP: 177.95.223.159
+(I) 2021-01-03T15:17:47 - Detected external IP: 2804:431:cfcf:de2d::f8c
+(N) 2021-01-03T15:17:47 - '1917.2019.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.A' restored.
+(N) 2021-01-03T15:17:47 - 'The Talented Mr Ripley 1999 1080p BluRay x264 DTS-WiKi [MovietaM' restored.
+(N) 2021-01-03T15:17:47 - 'The.Dark.Valley.2014.GERMAN.720p.BluRay.H264.AAC-VXT' restored.
+(N) 2021-01-03T15:17:47 - 'The.Duellists.1977.1080p.BluRay.x265-RARBG' restored.
+(N) 2021-01-03T15:17:47 - 'Insomnia.2002.1080p.BluRay.x264-CiNEFiLE' restored.
+(N) 2021-01-03T15:17:47 - 'Assimil - Deutsch ohne Mühe 1950' restored.
+(N) 2021-01-03T15:17:47 - 'Fallen.Angels.1995.CHINESE.1080p.BluRay.H264.AAC-VXT' restored.
+(N) 2021-01-03T15:17:47 - 'Tenet.2020.1080p.KOR.HDCAM.H264.AAC-Enfitt.mkv' restored.
+(N) 2021-01-03T15:17:47 - 'The.Dark.Valley.2014.GERMAN.1080p.BluRay.H264.AAC-VXT' restored.
+(N) 2021-01-03T15:17:47 - 'Red.Desert.1964.PROPER.1080p.BluRay.x264-SADPANDA[rarbg]' restored.
+(N) 2021-01-03T15:17:47 - 'The.Duellists.1977.1080p.BluRay.H264.AAC-RARBG' restored.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent '1917.2019.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.A'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'The.Duellists.1977.1080p.BluRay.H264.AAC-RARBG'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'Red.Desert.1964.PROPER.1080p.BluRay.x264-SADPANDA[rarbg]'. Cannot proceed further.
+(N) 2021-01-03T15:17:47 - 'Decalogue.[Dekalog].1989.PAL.1080p.BluRay.x264.FLAC.HORiZON-ArtSubs' restored.
+(N) 2021-01-03T15:17:47 - 'Helvetica fonts complete' restored.
+(N) 2021-01-03T15:17:47 - 'Mikey And Nicky (1976) Criterion (1080p BluRay X265 HEVC 10bit AAC 1.0 Tigole) [QxR]' restored.
+(N) 2021-01-03T15:17:47 - 'assimil_collection' restored.
+(N) 2021-01-03T15:17:47 - 'The.Dark.Valley.2014.1080p.BluRay.x264-PHOBOS[rarbg]' restored.
+(N) 2021-01-03T15:17:47 - 'Red.Desert.1964.1080p.Criterion.Bluray.DTS.x264-GCJM' restored.
+(N) 2021-01-03T15:17:47 - 'The.Assassination.Of.Jesse.James.By.The.Coward.Robert.Ford.2007.1080p.BluRay.H264.AAC-RARBG' restored.
+(N) 2021-01-03T15:17:47 - 'Never.Look.Away.2018.1080p.BluRay.x264-CiNEFiLE[rarbg]' restored.
+(N) 2021-01-03T15:17:47 - 'Baker A.E., Hengeveld K. - Linguistics - 2012.pdf' restored.
+(N) 2021-01-03T15:17:47 - 'The Dark Valley 2014 1080p BluRay x264 DTS-JYK' restored.
+(N) 2021-01-03T15:17:47 - 'TENET.2020.1080P.CHINESESUB.HDTS.X264.AAC-BabyTorrent' restored.
+(N) 2021-01-03T15:17:47 - 'Tenet.2020.1080p.KOREAN.CAM.H264.AC3.WARRIORS' restored.
+(N) 2021-01-03T15:17:47 - 'The Young Pope Season 1 Mp4 1080p' restored.
+(N) 2021-01-03T15:17:47 - 'The.Story.of.Adele.H.1975.1080p.BluRay.x264-MELiTE' restored.
+(N) 2021-01-03T15:17:47 - '테넷 (캠버전) TENET.2020.720p.KOR.DTC.H264.AAC-RTM.mkv' restored.
+(N) 2021-01-03T15:17:47 - 'Tenet.2020.IMAX.1080p.BluRay.x264.DTS-HD.MA.5.1-FGT' restored.
+(N) 2021-01-03T15:17:47 - 'Cold.Mountain.2003.1080p.BluRay.H264.AAC-RARBG' restored.
+(N) 2021-01-03T15:17:47 - 'Cinema.Paradiso.1988.DC.ITALIAN.1080p.BluRay.H264.AAC-VXT' restored.
+(N) 2021-01-03T15:17:47 - 'The Rounders (1965) [1080p] [BluRay] [YTS.MX]' restored.
+(N) 2021-01-03T15:17:47 - 'The.Dark.Valley.2014.DVDRip.Aac.Ita.Ger.x264-lizaliza.mkv' restored.
+(N) 2021-01-03T15:17:47 - '1d9b96cccff3d3422198adad7988c826' restored.
+(N) 2021-01-03T15:17:47 - 'The.Piano.Teacher.2001.Criterion.1080p.BluRay.HEVC.EAC3-SARTRE' restored.
+(N) 2021-01-03T15:17:47 - '1917.2019.iNTERNAL.RERiP.HDR10Plus.2160p.UHD.BluRay.x265.JustWatch' restored.
+(N) 2021-01-03T15:17:47 - 'Twin Peaks Complete Series BRRip 720p x264 aac 5.1 + English Subs' restored.
+(N) 2021-01-03T15:17:47 - 'Rounders.1998.1080p.BluRay.H264.AAC-RARBG' restored.
+(N) 2021-01-03T15:17:47 - 'Assimil - Norwegisch ohne Mühe CD-ROM plus Audios [Alcohol Image by flofi].rar' restored.
+(N) 2021-01-03T15:17:47 - 'Good.Time.2017.1080p.WEB-DL.DD5.1.H264-FGT' restored.
+(N) 2021-01-03T15:17:47 - 'The.Talented.Mr.Ripley.1999.1080p.Bluray.x264.anoXmous' restored.
+(N) 2021-01-03T15:17:47 - 'Red Desert (1964) BluRay 1080p YTS [YIFY]' restored.
+(N) 2021-01-03T15:17:47 - 'Corngold Stanley, Gross Ruth V. (Edited) - Kafka for the Twenty-First Century - 2011.pdf' restored.
+(N) 2021-01-03T15:17:47 - 'Tenet.2020.1080p.BluRay.AVC.DTS-HD.MA.5.1-ESiR' restored.
+(N) 2021-01-03T15:17:47 - 'd76c1af04f09b88c5519b841a1a2fe4b' restored.
+(N) 2021-01-03T15:17:47 - 'Days.Of.Heaven.1978.1080p.BluRay.x264-HANGOVER' restored.
+(N) 2021-01-03T15:17:47 - 'The Conformist (1970) 1080p BRrip_sujaidr' restored.
+(N) 2021-01-03T15:17:47 - 'Never.Look.Away.2018.GERMAN.1080p.BluRay.x265-VXT' restored.
+(N) 2021-01-03T15:17:47 - 'Frederic Delavier - Strength Training Anatomy (first and second edition)' restored.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'Decalogue.[Dekalog].1989.PAL.1080p.BluRay.x264.FLAC.HORiZON-ArtSubs'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'The Young Pope Season 1 Mp4 1080p'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'The.Story.of.Adele.H.1975.1080p.BluRay.x264-MELiTE'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'Cold.Mountain.2003.1080p.BluRay.H264.AAC-RARBG'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'Cinema.Paradiso.1988.DC.ITALIAN.1080p.BluRay.H264.AAC-VXT'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent '1917.2019.iNTERNAL.RERiP.HDR10Plus.2160p.UHD.BluRay.x265.JustWatch'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'Tenet.2020.IMAX.1080p.BluRay.x264.DTS-HD.MA.5.1-FGT'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'Good.Time.2017.1080p.WEB-DL.DD5.1.H264-FGT'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'Red Desert (1964) BluRay 1080p YTS [YIFY]'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'Corngold Stanley, Gross Ruth V. (Edited) - Kafka for the Twenty-First Century - 2011.pdf'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'Frederic Delavier - Strength Training Anatomy (first and second edition)'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'The Conformist (1970) 1080p BRrip_sujaidr'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'Twin Peaks Complete Series BRRip 720p x264 aac 5.1 + English Subs'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'Tenet.2020.1080p.BluRay.AVC.DTS-HD.MA.5.1-ESiR'. Cannot proceed further.
+(C) 2021-01-03T15:17:47 - File sizes mismatch for torrent 'Helvetica fonts complete'. Cannot proceed further.
+(I) 2021-01-03T15:17:48 - Detected external IP: 2804:431:cfcf:de2d:818f:d295:8dd7:c952
+(N) 2021-01-03T15:17:49 - '1917.2019.1080p.BluRay.x265-RARBG' added to download list.
+(N) 2021-01-03T15:18:10 - qBittorrent v4.3.1 started
+(N) 2021-01-03T15:18:10 - Using config directory: /home/senit/.config/qBittorrent/
+(N) 2021-01-03T15:18:13 - qBittorrent v4.3.1 started
+(N) 2021-01-03T15:18:13 - Using config directory: /home/senit/.config/qBittorrent/
+(N) 2021-01-03T15:18:15 - 'Insomnia.2002.1080p.BluRay.x265-RARBG' added to download list.
+(C) 2021-01-03T15:20:22 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-01-03T15:20:22 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2021-01-03T16:31:08 - System network status changed to OFFLINE
+(I) 2021-01-03T16:31:14 - Successfully listening on IP: fe80::f7b8:9729:e507:f4a6%enp6s0u1u1, port: TCP/37969
+(I) 2021-01-03T16:31:14 - Successfully listening on IP: fe80::f7b8:9729:e507:f4a6%enp6s0u1u1, port: UDP/37969
+(I) 2021-01-03T16:31:15 - Successfully listening on IP: 192.168.0.80, port: TCP/37969
+(I) 2021-01-03T16:31:15 - Successfully listening on IP: 192.168.0.80, port: UDP/37969
+(I) 2021-01-03T16:31:15 - System network status changed to ONLINE
+(I) 2021-01-03T16:33:00 - System network status changed to OFFLINE
+(I) 2021-01-03T16:33:09 - Successfully listening on IP: fe80::f7b8:9729:e507:f4a6%enp6s0u1u1, port: TCP/37969
+(I) 2021-01-03T16:33:09 - Successfully listening on IP: fe80::f7b8:9729:e507:f4a6%enp6s0u1u1, port: UDP/37969
+(I) 2021-01-03T16:33:15 - Successfully listening on IP: fd34:5880:901d:0:43bb:ad3b:abf2:344c, port: TCP/37969
+(I) 2021-01-03T16:33:15 - Successfully listening on IP: fd34:5880:901d:0:43bb:ad3b:abf2:344c, port: UDP/37969
+(I) 2021-01-03T16:33:16 - Successfully listening on IP: fd34:5880:901d::cb2, port: TCP/37969
+(I) 2021-01-03T16:33:16 - Successfully listening on IP: fd34:5880:901d::cb2, port: UDP/37969
+(I) 2021-01-03T16:33:16 - System network status changed to ONLINE
+(I) 2021-01-03T16:33:20 - Successfully listening on IP: 192.168.1.157, port: TCP/37969
+(I) 2021-01-03T16:33:20 - Successfully listening on IP: 192.168.1.157, port: UDP/37969
+(I) 2021-01-03T16:34:11 - Detected external IP: 177.188.11.100
+(I) 2021-01-03T16:34:13 - Successfully listening on IP: fd34:5880:901d:0:43bb:ad3b:abf2:344c, port: TCP/37969
+(I) 2021-01-03T16:34:13 - Successfully listening on IP: fd34:5880:901d:0:43bb:ad3b:abf2:344c, port: UDP/37969
+(I) 2021-01-03T16:34:15 - Successfully listening on IP: fd34:5880:901d::cb2, port: TCP/37969
+(I) 2021-01-03T16:34:15 - Successfully listening on IP: fd34:5880:901d::cb2, port: UDP/37969
+(I) 2021-01-03T16:34:15 - Successfully listening on IP: 2804:431:cfce:57b4:d99e:f7c2:682:9c77, port: TCP/37969
+(I) 2021-01-03T16:34:15 - Successfully listening on IP: 2804:431:cfce:57b4:d99e:f7c2:682:9c77, port: UDP/37969
+(I) 2021-01-03T16:34:58 - Detected external IP: 2804:431:cfce:57b4:d99e:f7c2:682:9c77
+(C) 2021-01-03T16:35:56 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-01-03T16:35:56 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2021-01-03T21:48:50 - Successfully listening on IP: fe80::7c65:65ed:515e:d1e3%enp5s0, port: TCP/37969
+(I) 2021-01-03T21:48:50 - Successfully listening on IP: fe80::7c65:65ed:515e:d1e3%enp5s0, port: UDP/37969
+(I) 2021-01-03T21:49:35 - Successfully listening on IP: 10.42.0.1, port: TCP/37969
+(I) 2021-01-03T21:49:35 - Successfully listening on IP: 10.42.0.1, port: UDP/37969
+(I) 2021-01-03T21:49:35 - Successfully listening on IP: fe80::26c6:b07b:f43b:8537%enp5s0, port: TCP/37969
+(I) 2021-01-03T21:49:35 - Successfully listening on IP: fe80::26c6:b07b:f43b:8537%enp5s0, port: UDP/37969
+(I) 2021-01-03T22:02:36 - Successfully listening on IP: 2804:431:cfce:57b4::cb2, port: TCP/37969
+(I) 2021-01-03T22:02:36 - Successfully listening on IP: 2804:431:cfce:57b4::cb2, port: UDP/37969
+(I) 2021-01-03T22:03:17 - Detected external IP: 2804:431:cfce:57b4::cb2
+(I) 2021-01-04T00:58:05 - UPnP / NAT-PMP support [OFF]

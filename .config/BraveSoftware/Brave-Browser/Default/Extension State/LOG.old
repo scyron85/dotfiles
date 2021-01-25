@@ -1,0 +1,15 @@
+2021/01/25-08:19:48.427 2de Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/Extension State/MANIFEST-000001
+2021/01/25-08:19:48.428 2de Recovering log #58
+2021/01/25-08:19:48.437 2de Reusing old log /home/senit/.config/BraveSoftware/Brave-Browser/Default/Extension State/000058.log 
+2021/01/25-12:01:16.441 19e28 Level-0 table #62: started
+2021/01/25-12:01:16.457 19e28 Level-0 table #62: 440508 bytes OK
+2021/01/25-12:01:16.465 19e28 Delete type=0 #58
+2021/01/25-12:01:16.466 17ddc Compacting 4@0 + 1@1 files
+2021/01/25-12:01:16.504 17ddc Generated table #63@0: 4 keys, 12612 bytes
+2021/01/25-12:01:16.504 17ddc Compacted 4@0 + 1@1 files => 12612 bytes
+2021/01/25-12:01:16.505 17ddc compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/01/25-12:01:16.505 17ddc Delete type=2 #50
+2021/01/25-12:01:16.505 17ddc Delete type=2 #62
+2021/01/25-12:01:16.505 17ddc Delete type=2 #59
+2021/01/25-12:01:16.505 17ddc Delete type=2 #56
+2021/01/25-12:01:16.505 17ddc Delete type=2 #53

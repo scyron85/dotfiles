@@ -1,0 +1,8 @@
+2021/01/21-10:59:01.507 463 Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_melhorenvio.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/21-10:59:01.507 463 Recovering log #62
+2021/01/21-10:59:01.507 463 Reusing old log /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_melhorenvio.com.br_0.indexeddb.leveldb/000062.log 
+2021/01/21-10:59:15.835 976 Level-0 table #66: started
+2021/01/21-10:59:15.835 976 Level-0 table #66: 0 bytes OK
+2021/01/21-10:59:15.840 976 Delete type=0 #62
+2021/01/21-10:59:15.840 976 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/21-10:59:15.840 976 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

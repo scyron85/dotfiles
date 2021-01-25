@@ -1,0 +1,5 @@
+2021/01/24-22:24:32.531 33d3b Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.archlabslinux.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/24-22:26:32.731 340b8 Level-0 table #5: started
+2021/01/24-22:26:32.736 340b8 Level-0 table #5: 65946 bytes OK
+2021/01/24-22:26:32.738 340b8 Delete type=0 #3
+2021/01/24-22:26:32.739 340b8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/01/22-03:39:55.391 4c113 Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.uol.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/22-03:39:55.391 4c113 Recovering log #4
+2021/01/22-03:39:55.391 4c113 Reusing old log /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.uol.com.br_0.indexeddb.leveldb/000004.log 
+2021/01/22-03:48:24.124 4d2df Level-0 table #8: started
+2021/01/22-03:48:24.126 4d2df Level-0 table #8: 1141 bytes OK
+2021/01/22-03:48:24.128 4d2df Delete type=0 #4
+2021/01/22-03:48:24.129 4d2df Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/22-03:48:24.129 4d2df Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01\x0a\x00p\x00o\x00r\x00t\x00a\x00l\x00-\x00u\x00o\x00l' @ 13025 : 1
+2021/01/22-03:48:24.129 4d2df Compacting 1@1 + 1@2 files
+2021/01/22-03:48:24.140 4d2df Generated table #9@1: 128 keys, 6445 bytes
+2021/01/22-03:48:24.140 4d2df Compacted 1@1 + 1@2 files => 6445 bytes
+2021/01/22-03:48:24.141 4d2df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/22-03:48:24.142 4d2df Delete type=2 #8
+2021/01/22-03:48:24.142 4d2df Delete type=2 #5
+2021/01/22-03:48:24.143 4d2df Manual compaction at level-1 from '\x00\x01\x03\x02\x01\x0a\x00p\x00o\x00r\x00t\x00a\x00l\x00-\x00u\x00o\x00l' @ 13025 : 1 .. (end); will stop at (end)

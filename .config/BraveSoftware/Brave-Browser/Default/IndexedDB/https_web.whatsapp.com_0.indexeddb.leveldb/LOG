@@ -1,0 +1,15 @@
+2021/01/25-08:53:13.207 4487 Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/25-08:53:13.207 4487 Recovering log #31
+2021/01/25-08:53:13.207 4487 Reusing old log /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000031.log 
+2021/01/25-08:53:55.465 3861 Level-0 table #36: started
+2021/01/25-08:53:55.470 3861 Level-0 table #36: 37865 bytes OK
+2021/01/25-08:53:55.472 3861 Delete type=0 #31
+2021/01/25-08:53:55.473 3861 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/25-08:53:55.473 3861 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x04\x00w\x00a\x00w\x00c' @ 70097 : 1
+2021/01/25-08:53:55.473 3861 Compacting 1@1 + 1@2 files
+2021/01/25-08:53:55.508 3861 Generated table #37@1: 15920 keys, 691867 bytes
+2021/01/25-08:53:55.508 3861 Compacted 1@1 + 1@2 files => 691867 bytes
+2021/01/25-08:53:55.509 3861 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/25-08:53:55.509 3861 Delete type=2 #36
+2021/01/25-08:53:55.509 3861 Delete type=2 #33
+2021/01/25-08:53:55.509 3861 Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x04\x00w\x00a\x00w\x00c' @ 70097 : 1 .. (end); will stop at (end)

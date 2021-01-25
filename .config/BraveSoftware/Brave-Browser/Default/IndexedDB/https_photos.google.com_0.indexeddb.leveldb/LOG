@@ -1,0 +1,8 @@
+2021/01/25-13:13:15.125 23171 Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/25-13:13:15.125 23171 Recovering log #360
+2021/01/25-13:13:15.125 23171 Reusing old log /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000360.log 
+2021/01/25-13:13:47.126 23179 Level-0 table #364: started
+2021/01/25-13:13:47.126 23179 Level-0 table #364: 0 bytes OK
+2021/01/25-13:13:47.131 23179 Delete type=0 #360
+2021/01/25-13:13:47.131 23179 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/25-13:13:47.132 23179 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/01/25-08:57:18.234 4b35 Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/25-08:57:18.235 4b35 Recovering log #95
+2021/01/25-08:57:18.236 4b35 Reusing old log /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000095.log 
+2021/01/25-08:57:59.694 4b32 Level-0 table #100: started
+2021/01/25-08:57:59.700 4b32 Level-0 table #100: 8185 bytes OK
+2021/01/25-08:57:59.702 4b32 Delete type=0 #95
+2021/01/25-08:57:59.703 4b32 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/25-08:57:59.703 4b32 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 7811 : 1
+2021/01/25-08:57:59.703 4b32 Compacting 1@1 + 1@2 files
+2021/01/25-08:57:59.705 4b32 Generated table #101@1: 121 keys, 4136 bytes
+2021/01/25-08:57:59.705 4b32 Compacted 1@1 + 1@2 files => 4136 bytes
+2021/01/25-08:57:59.707 4b32 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/25-08:57:59.707 4b32 Delete type=2 #97
+2021/01/25-08:57:59.707 4b32 Delete type=2 #100
+2021/01/25-08:57:59.707 4b32 Manual compaction at level-1 from '\x00\x04\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 7811 : 1 .. (end); will stop at (end)

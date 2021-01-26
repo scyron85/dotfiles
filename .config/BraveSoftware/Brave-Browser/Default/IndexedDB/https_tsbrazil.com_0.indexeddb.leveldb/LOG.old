@@ -1,5 +1,0 @@
-2021/01/22-02:58:36.125 46787 Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_tsbrazil.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/22-02:58:44.045 46ae4 Level-0 table #5: started
-2021/01/22-02:58:44.050 46ae4 Level-0 table #5: 1056 bytes OK
-2021/01/22-02:58:44.052 46ae4 Delete type=0 #3
-2021/01/22-02:58:44.052 46ae4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

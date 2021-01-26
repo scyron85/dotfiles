@@ -1,5 +1,0 @@
-2021/01/22-12:24:02.227 1ecc Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_g1.globo.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/22-12:25:39.340 1ed1 Level-0 table #5: started
-2021/01/22-12:25:39.345 1ed1 Level-0 table #5: 1737 bytes OK
-2021/01/22-12:25:39.347 1ed1 Delete type=0 #3
-2021/01/22-12:25:39.347 1ed1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

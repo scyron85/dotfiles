@@ -1,5 +1,0 @@
-2021/01/25-01:12:52.773 45803 Reusing MANIFEST /home/senit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_abc7chicago.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/25-01:16:39.723 45f03 Level-0 table #5: started
-2021/01/25-01:16:39.725 45f03 Level-0 table #5: 2533 bytes OK
-2021/01/25-01:16:39.726 45f03 Delete type=0 #3
-2021/01/25-01:16:39.727 45f03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

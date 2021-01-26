@@ -1,0 +1,582 @@
+nid	mid	fields
+1602634218165	1602469857725	phy	What was Socrates known as?
+1602634218166	1602469857725	ming	What is the typical starting index of an array?
+1602634408308	1602469857725	Che bella jornatia	Que bela jornada	[sound:it-ch00-01.mp3]
+1602634408309	1602469857725			
+1602641782847	1602469857725	oi o	oioii	[sound:it-ch00-02.mp3]
+1602643140543	1602469857725	Sex	Sexo	
+1602643466083	1602469857725	Saex	Sexo	[sound:it-ch-00-01.mp3]
+1602643700661	1602469857725	Sex	Sexo	[it-ch00-01.mp3]
+1602643759868	1602469857725	Sex	Sexo	
+1602643816628	1602469857725	Sex	Sexo	
+1602904768178	1602469857725	Sex	Sexo	[sound:it-ch00-01.mp3]
+1602904835608	1602469857725	Sex	Sexo	[sound:it-ch00-01.mp3]
+1602904835609	1602469857725	Sex	Sexo	[sound:it-ch00-01.mp3]
+1602904835610	1602469857725	Sex	Sexo	[sound:it-ch00-01.mp3]
+1602905232701	1602469857725	Che bella giornata!	Que lindo dia!	"[sound
+1602905232702	1602469857725	Studia l'italiano anche Lei?	O senhor(a) também estuda o italiano?	"[sound
+1602905232703	1602469857725	Com'e buono questo caffè	Como é bom este café!	"[sound
+1602905232704	1602469857725	Che noia! Non ho niente da fare!	Que chato! Não tenho nada para fazer!	"[sound
+1602905232705	1602469857725	Che cosa fai di bello?	O que você faz de bom?	"[sound
+1602905232706	1602469857725	Vado a casa di Lucia	Estou indo até a casa de Lucia	"[sound
+1602905232707	1602469857725	Che persona simpatica!	Que pessoa simpática!	"[sound
+1602905232708	1602469857725	Qual è la sua professione?	Qual é a sua profissão?	"[sound
+1602905232709	1602469857725	Sono già le undici!	Já são onze horas!	"[sound
+1602905232710	1602469857725	Ma che dici? Non capisco niente!	Mas o que dizes? Não entendo nada!	"[sound
+1602905232711	1602469857725	È tanto tempo che non ci vediamo!	Faz tanto tempo que não nos vemos!	"[sound
+1602905232712	1602469857725	L'hai visto anche tu?	Você também o viu?	"[sound
+1602905232713	1602469857725	Mi piacerebbe tanto tornare in Italia!	Gostaria tanto de voltar à Italia!	"[sound
+1602905232714	1602469857725	Non ho nessun impegno	Não tenho nenhum compromisso(empenho)	"[sound
+1602905232715	1602469857725	Andiamo a cena insieme?	Vamos jantar juntos?	"[sound
+1602905232716	1602469857725	C'è un tabaccaio da queste parti?	Há uma tabacaria por esses lados?	"[sound
+1602905232717	1602469857725	Ho proprio voglia di fare un bel viaggio!	Eu realmente gostaria de fazer uma boa viagem!	"[sound
+1602905328926	1602469857725	Studia l'italiano anche Lei?	O senhor(a) também estuda o italiano?	"[sound
+1602905328927	1602469857725	Com'e buono questo caffè	Como é bom este café!	"[sound
+1602905328928	1602469857725	Che noia! Non ho niente da fare!	Que chato! Não tenho nada para fazer!	"[sound
+1602905328929	1602469857725	Che cosa fai di bello?	O que você faz de bom?	"[sound
+1602905328930	1602469857725	Vado a casa di Lucia	Estou indo até a casa de Lucia	"[sound
+1602905328931	1602469857725	Che persona simpatica!	Que pessoa simpática!	"[sound
+1602905328932	1602469857725	Qual è la sua professione?	Qual é a sua profissão?	"[sound
+1602905328933	1602469857725	Sono già le undici!	Já são onze horas!	"[sound
+1602905328934	1602469857725	Ma che dici? Non capisco niente!	Mas o que dizes? Não entendo nada!	"[sound
+1602905328935	1602469857725	È tanto tempo che non ci vediamo!	Faz tanto tempo que não nos vemos!	"[sound
+1602905328936	1602469857725	L'hai visto anche tu?	Você também o viu?	"[sound
+1602905328937	1602469857725	Mi piacerebbe tanto tornare in Italia!	Gostaria tanto de voltar à Italia!	"[sound
+1602905328938	1602469857725	Non ho nessun impegno	Não tenho nenhum compromisso(empenho)	"[sound
+1602905328939	1602469857725	Andiamo a cena insieme?	Vamos jantar juntos?	"[sound
+1602905328940	1602469857725	C'è un tabaccaio da queste parti?	Há uma tabacaria por esses lados?	"[sound
+1602905328941	1602469857725	Ho proprio voglia di fare un bel viaggio!	Eu realmente gostaria de fazer uma boa viagem!	"[sound
+1602905456876	1602469857725	Ho proprio voglia di fare un bel viaggio!	Eu realmente gostaria de fazer uma boa viagem!	"[sound
+1602905456875	1602469857725	C'è un tabaccaio da queste parti?	Há uma tabacaria por esses lados?	"[sound
+1602905456874	1602469857725	Andiamo a cena insieme?	Vamos jantar juntos?	"[sound
+1602905456873	1602469857725	Non ho nessun impegno	Não tenho nenhum compromisso(empenho)	"[sound
+1602905456872	1602469857725	Mi piacerebbe tanto tornare in Italia!	Gostaria tanto de voltar à Italia!	"[sound
+1602905456871	1602469857725	L'hai visto anche tu?	Você também o viu?	"[sound
+1602905456870	1602469857725	È tanto tempo che non ci vediamo!	Faz tanto tempo que não nos vemos!	"[sound
+1602905456869	1602469857725	Ma che dici? Non capisco niente!	Mas o que dizes? Não entendo nada!	"[sound
+1602905456868	1602469857725	Sono già le undici!	Já são onze horas!	"[sound
+1602905456867	1602469857725	Qual è la sua professione?	Qual é a sua profissão?	"[sound
+1602905456866	1602469857725	Che persona simpatica!	Que pessoa simpática!	"[sound
+1602905456865	1602469857725	Vado a casa di Lucia	Estou indo até a casa de Lucia	"[sound
+1602905456864	1602469857725	Che cosa fai di bello?	O que você faz de bom?	"[sound
+1602905456863	1602469857725	Che noia! Non ho niente da fare!	Que chato! Não tenho nada para fazer!	"[sound
+1602905456862	1602469857725	Com'e buono questo caffè	Como é bom este café!	"[sound
+1602905456861	1602469857725	Studia l'italiano anche Lei?	O senhor(a) também estuda o italiano?	"[sound
+1602904339995	1602469857725	Che bella giornata!	Que lindo dia!	"[sound
+1602904630985	1602469857725	Che bella giornata!	Que lindo dia!	"[sound
+1602906426117	1602469857725	Studia l'italiano anche Lei?	O senhor(a) também estuda o italiano?	[sound:it-ch00-02.mp3]
+1602906426118	1602469857725	Com'e buono questo caffè	Como é bom este café!	[sound:it-ch00-03.mp3]
+1602906426119	1602469857725	Che noia! Non ho niente da fare!	Que chato! Não tenho nada para fazer!	[sound:it-ch00-04.mp3]
+1602906426120	1602469857725	Che cosa fai di bello?	O que você faz de bom?	[sound:it-ch00-05.mp3]
+1602906426121	1602469857725	Vado a casa di Lucia	Estou indo até a casa de Lucia	[sound:it-ch00-06.mp3]
+1602906426122	1602469857725	Che persona simpatica!	Que pessoa simpática!	[sound:it-ch00-07.mp3]
+1602906426123	1602469857725	Qual è la sua professione?	Qual é a sua profissão?	[sound:it-ch00-08.mp3]
+1602906426124	1602469857725	Sono già le undici!	Já são onze horas!	[sound:it-ch00-09.mp3]
+1602906426125	1602469857725	Ma che dici? Non capisco niente!	Mas o que dizes? Não entendo nada!	[sound:it-ch00-10.mp3]
+1602906426126	1602469857725	È tanto tempo che non ci vediamo!	Faz tanto tempo que não nos vemos!	[sound:it-ch00-11.mp3]
+1602906426127	1602469857725	L'hai visto anche tu?	Você também o viu?	[sound:it-ch00-12.mp3]
+1602906426128	1602469857725	Mi piacerebbe tanto tornare in Italia!	Gostaria tanto de voltar à Italia!	[sound:it-ch00-13.mp3]
+1602906426129	1602469857725	Non ho nessun impegno	Não tenho nenhum compromisso(empenho)	[sound:it-ch00-14.mp3]
+1602906426130	1602469857725	Andiamo a cena insieme?	Vamos jantar juntos?	[sound:it-ch00-15.mp3]
+1602906426131	1602469857725	C'è un tabaccaio da queste parti?	Há uma tabacaria por esses lados?	[sound:it-ch00-16.mp3]
+1602906426132	1602469857725	Ho proprio voglia di fare un bel viaggio!	Eu realmente gostaria de fazer uma boa viagem!	[sound:it-ch00-17.mp3]
+1602907524526	1602469857724	k;k;k&nbsp;	khkjh
+1530282120970	1388273209891	The Dog<div><i>The Dogs</i></div>		<font color="#0000ff">Der Hund</font><div><font color="#0500ff">Die Hunde</font></div>	[sound:google-35187dd2-c2df7238-da1ff5f7-df4f8f56-4f0994de.mp3]	
+1530284093441	1388273209891	The Child<div><i>The Children</i></div>		<font color="#494f3f">Das Kind</font><div><font color="#494f3f">Die Kinder</font></div>	[sound:google-9878e0d2-2a316940-0316debd-108af238-4713e400.mp3]	
+1530284159977	1388273209891	That suits them.		Das paßt ihnen	[sound:google-3babe1db-7cbd3a3e-7b866458-c3058ad4-efd11998.mp3]	
+1530284254737	1388273209891	He likes it(f) very much		Sie gefällt ihm sehr gut.	[sound:google-6b5fc62c-748b5fc4-89a5487c-1e44f147-d3178e56.mp3]	
+1530284388090	1388273209891	I have to show the car to my dog		Ich muss das Auto meinem Hund zeigen.	[sound:google-b9998ef8-2a482426-c4ee2261-c8593e5a-1aa3cfe8.mp3]	
+1530284638476	1388273209891	My children hate noise		Meine Kinder hassen Lärm.	[sound:google-2841bf84-43691a7c-c1251339-4b190658-ccf83607.mp3]	
+1530284698196	1388273209891	The Photo		<font color="#494f3f">Das Foto</font><div><font color="#494f3f">Die Fotos</font></div>	[sound:google-5731d376-3777398c-db2fb69e-815586a4-8a4ecdbd.mp3]	
+1530284775299	1388273209891	She shows her apartment to her friend		Sie zeigt dem Freund ihre Wohnung.	[sound:google-c37fedad-5d7ff0e8-79b7bf3e-3b6303af-39a115d8.mp3]	
+1530285011317	1388273209891	Show me your photos please! (formal)		Zeigen Sie mir bitte Ihre Fotos.	[sound:google-f2ca7327-18e2eba2-2ac23514-baf5177f-ab478f9d.mp3]	
+1530324585831	1388273209891	Do you like my dog? (informal)		Gefällt dir meinen Hund?	[sound:google-8c593e66-84ec1e41-6121b3a5-7561ef7e-399def1b.mp3]	Meinen Hund = dative
+1530324670587	1388273209891	Do you like my car? (informal)		Gefällt dir <font color="#494f3f">mein Auto</font>?	[sound:google-80fc8ade-7a89d040-2dfca58d-9c0b92ff-d0599a24.mp3]	Mein Auto = Accusative (Neutral, doesn't change)
+1530325056722	1388273209891	They like your fotos very much		Deine Fotos gefallen ihnen sehr gut.	[sound:google-6a90d05b-33339275-b1f0890d-3df3d8e0-8e8d45b7.mp3]	Dative (plural, no chance to deine)
+1530325702484	1388273209891	Preposition für is always followed by the accusative		Example: Das Buch ist für meinem Bruder.	[sound:google-2f319ab3-a6a9502c-c6299093-8a3746f5-768cc046.mp3]	
+1530330159471	1388273209891	The Guest		<font color="#0000ff">Der Gast.</font><div><font color="#0000ff">Die Gäste</font></div>	[sound:google-899dfc5b-242ca069-dc6be638-090445df-bd6cf73a.mp3]	
+1530330418428	1388273209891	The preposition Bei is always followed by Dative		Bei meinem Vater	[sound:google-2db2c566-694f8b54-32ae6c28-8bc7a57b-adf04700.mp3]	at my father's, with my father
+1530330772088	1388273209891	The dative of feminine gender ends in -r or -er.		Example: 1) Ich zeige der Frau das Hotel &nbsp;2) Gehört das Buch ihrer Frau?	[sound:google-204baac0-184b85a0-b4982945-258ceba0-69318192.mp3]	1) I show the woman the hotel 2) Does the book belong to you?
+1530332206830	1388273209891	The habit		<font color="#800080">Die Gewohnheit</font><div><font color="#800080">Die Gewohnheiten</font></div>	[sound:google-37781300-41217118-db28934c-12b976ac-8be006d6.mp3]	
+1530333888875	1388273209891	Nouns ending in -heit -keit or -ung are always feminine. Plural -en				
+1530334017645	1388273209891	Euch is dative and accusative of ihr (you plural)		Example: Ich sehe euch morgen (acc.) &nbsp; (2) Er zeigt euch Paris (dativ.)	[sound:google-062a64fd-96efc993-ac0207f2-335022e8-c5766cff.mp3]	I'll see you(plural) tomorrow
+1530452761971	1388273209891	The Teacher male + female		Der Lehrer, Die Lehrerin	[sound:google-c44f78a3-5a43e1d8-541c0f9e-ac2f3b8e-b8aacc77.mp3]	
+1530592944588	1388273209891	The Friend m+f		Der Freund, Die Freundin	[sound:google-a97717ff-e3e1c31a-0d83ec56-4004dcec-c7760576.mp3]	
+1530613841012	1388273209891	Next		Nächst	[sound:google-97557569-926b7288-4c27413e-7a59c3fd-166bdae9.mp3]	
+1530613907678	1388273209891	He drives (he goes)		Er fährt	[sound:google-e41f2e6e-e17ea465-d8339539-42bbac2a-63bcbe20.mp3]	
+1530614298513	1388273209891	The formalities		die Formalitäten	[sound:google-82beddc9-65e5c9a6-a738c175-88e86a48-0ea64eb3.mp3]	
+1530614337023	1388273209891	Sweet		süß	[sound:google-cf42ca3e-ddacb082-1d218479-2b844054-6a0cbdb5.mp3]	
+1530616029971	1388273209891	She loses		Sie verliert	[sound:google-5d83623e-b3984212-59afbea9-a9756fcb-44ad08b8.mp3]	
+1507078408903	1388273209891	Tired		müde	[sound:yandex-01f685b9-360700f8-aad07771-fb541182-044d9ae1.mp3]	
+1507078610076	1388273209891	It is nice, isn't it?		Es ist schön, nicht wahr?	[sound:yandex-b40b5edc-56eb7cf0-e199016d-028a9363-c433f830.mp3]	
+1507078916388	1388273209891	Indeed, but the restaurant is too expensive.		Doch, aber das Restaurant ist zu teuer.	[sound:yandex-3f2f0ec5-304bf797-dee610c6-8a6016ca-8ee0ffcd.mp3]	
+1507078990879	1388273209891	There is a pub, it is also nice isn't it?		Dort ist eine Kneipe, sie ist auch schön, nicht wahr?	[sound:yandex-cd1e3de3-215a65b1-cd6e85c0-c7c11532-e102cd1e.mp3]	
+1507079080531	1388273209891	First		Erste	[sound:yandex-6923e155-046fbf23-9864cb26-19dc20d0-62e52479.mp3]	
+1507079966465	1388273209891	Second		Zweite&nbsp;	[sound:yandex-970b2c68-4fd6b87a-42d96326-fb4675bf-bd11dc96.mp3]	
+1507080001441	1388273209891	Third		Dritte&nbsp;	[sound:yandex-143a58c8-659ff879-f70a60a4-d2fd2c2e-9d5e77e8.mp3]	
+1507080027124	1388273209891	Lesson		Lektion&nbsp;	[sound:yandex-e593b5f6-b43d79cc-c0400536-8b9b2847-2c80ceb9.mp3]	
+1507080042116	1388273209891	Excuse me		Entschuldigung	[sound:yandex-f67629ca-e1b158b9-4af37845-838ff37d-800c6b43.mp3]	
+1507082200821	1388273209891	Excuse me! is this <font color="#0000ff">seat (place)</font> <font color="#550000">still</font> free?		Ensch! Ist dieser <font color="#0000ff">Platz</font> <font color="#550000">noch</font> frei?	[sound:yandex-52848d8e-900546b6-37828012-c5edcb40-fc8cc4d1.mp3]	
+1507082340144	1388273209891	Thank you, wonderful this sun isn't it?		Danke, Wunderbar diese Sonne, nicht wahr?	[sound:yandex-9e147d8e-1d660666-4dc27394-01b550fe-52e2bf2f.mp3]	
+1507082386641	1388273209891	No, I am French (f)		Nein, Ich bin Französin	[sound:yandex-244e660d-3fc05bb4-b6c332d6-4fb14a0a-0b2902fe.mp3]	
+1507082429170	1388273209891	I <font color="#55007f">only</font> speak a little German		Ich spreche <font color="#55007f">nur</font> ein wenig Deutsch	[sound:yandex-b7ad1ae6-946bbcaa-3282ec53-97d6b2e8-c72263e4.mp3]	
+1507082479165	1388273209891	Shame		Shade	[sound:yandex-333fdbff-c48adec0-bf23d3c6-8fedd881-295be9f9.mp3]	
+1507082519171	1388273209891	Do you speak French?		Sprechen Sie Französisch?&nbsp;	[sound:yandex-a18219b8-b95eb626-dd04abd0-d14ff2e3-7a0d24e4.mp3]	
+1507083027345	1388273209891	This Restaurant is not expensive		Dieses Restaurant ist nicht teuer	[sound:yandex-0b5452e0-dd82edc9-7ff0a9c7-b99b311d-a8ed79e5.mp3]	
+1507083054794	1388273209891	Do you come here often?		Sie Sind oft hier?	&nbsp;[sound:yandex-7bae1183-f2add1cc-70110d50-5f8f77ae-c837ed27.mp3]	
+1507083105969	1388273209891	Will you come to the cafe with me?		Kommst du mit ins Cafe?&nbsp;	[sound:yandex-1d56455f-d38d571b-83944818-c773e6f5-774f2d83.mp3]	
+1507083356952	1388273209891	I go to the cafe		Ich gehe ins cafe	[sound:yandex-224906fa-67ca9903-66b6d82a-f4c04259-72f0a0e9.mp3]	
+1507083520248	1388273209891	Yes, with pleasure. I am thirsty		Ja, gern. Ich habe Durst	[sound:yandex-3f427bfc-7aa68b7f-1771b31d-8fcc3ca5-af011639.mp3]	
+1507083701900	1388273209891	I'll have a lemonade. And you?		Ich trinke eine Limonade. Und du?	[sound:yandex-a32c12ea-c12b7682-1160a2ab-942cd11f-82e3e833.mp3]	
+1507083770473	1388273209891	I'll take a beer		Ich nehme ein Bier	[sound:yandex-f500c18b-d69b78e5-6b864a0e-d9e1450e-2c405749.mp3]	
+1507083829624	1388273209891	It is nice to meet you. Will you have a glass of wine with me?		Es freut mich! Trinken Sie ein Glas Wein mit mir?	[sound:yandex-0f288d3d-9d2058f8-d5b90c97-a9dffd41-1b1fb133.mp3]	
+1507087593732	1388273209891	I would like to speak to Miss Wagner please		Ich möchte bitte Fraulein Wagner sprechen	[sound:yandex-16fe986f-6a519ebf-96bc85e0-a379243d-ddd56a5b.mp3]	
+1507087774149	1388273209891	Excuse me! Who are you?		Entschuldigung, Wer sind Sie?	[sound:yandex-ab18ec0c-9990c05c-897706e9-d7656362-299d6281.mp3]	
+1507174233411	1388273209891	One moment please. My daughter will be here right away (come at once)		Einen Moment bitte. Meine Tochter kommt sofort	[sound:yandex-50f4a88c-e1c3c290-41bae257-cca64d88-a662ad32.mp3]	
+1507174318146	1388273209891	I am still at the office but I'm leaving now (driving home)		Ich bin noch im Büro, aber ich fahre jetzt nach hause	[sound:yandex-f248fea6-c40f7456-9ddc1ea0-0e049352-7f0a8d2f.mp3]	
+1507174556750	1388273209891	No, rather tomorrow. Tonight I would like to watch the television		Nein, lieber morgen. Heute abend möchte ich fernsehen.	[sound:yandex-d2b4427e-d7a1cb2b-7dd22705-96a8e5ce-332dad57.mp3]	
+1507174650105	1388273209891	Are we going to the cinema tonight?		Gehen wir heute abend ins Kino?	[sound:yandex-873cd534-d88751e9-3f85b31e-601da3e2-dcd08528.mp3]	
+1507174696077	1388273209891	To watch television		Fernsehen	[sound:yandex-0926d7a9-01c46699-14bc28b1-a3f657c0-bc1155e6.mp3]	
+1507174728953	1388273209891	Please translate		übersetzen Sie bitte	[sound:yandex-70918d4b-f17ccd48-47abef11-48db6efb-3d312879.mp3]	
+1507175016715	1388273209891	Hello! This is Miss Wagner speaking *(speakin on phone)		Guten Tag! Hier ist Fräulein Wagner	[sound:yandex-23a0a26d-c898ceae-e3636b40-8b406587-db688ccf.mp3]	
+1507175778244	1388273209891	Where is Peter? He is at home		Wo ist Peter? Er ist zu Hause	[sound:yandex-4902b716-3f57ed9d-6e7679a1-b9dfe6f0-959179a6.mp3]	
+1507175807930	1388273209891	Hurry up (come quickly) The train (m) is leaving in 10 minutes (f)		Kommt schnell! Der Zug fährt in zehn Minuten	[sound:yandex-4df4aa71-5ecd6aec-c6d3643e-9612113a-945b3115.mp3]	
+1507177710416	1388273209891	I have my ticket but not yours		Ich habe meine Fahrkarte, aber nicht deine	[sound:yandex-c8515241-e774b825-998fbde5-16bbd81a-6371df69.mp3]	
+1507177788703	1388273209891	Well then, I have only got one ticket. Who has the other one?		Also gut, ich habe nur eine Karte. Wer hat die andere?	[sound:yandex-ebb374ad-ae1a9397-63636ea5-ccb0a42b-77353096.mp3]	
+1507177858643	1388273209891	I have not got it. You must have 2 tickets		I habe sie nicht. Du mußt zwei karten haben	[sound:yandex-7685bfa4-3c5b115e-7d035110-594d86f4-00aebf28.mp3]	
+1507177919895	1388273209891	Oh dear. It's always the same old story. I'll go on my own		Oh gott. Das ist immer dasselbe Theatre. Ich fahre allein	[sound:yandex-26c9085d-6491ac53-0ed8e38c-5f564ef0-c25eabdb.mp3]	
+1507178155136	1388273209891	Wait, here is my ticket. In my coat pocket		Warte, hier ist meine karte. In meiner manteltasche.	[sound:yandex-0128c419-6edb0433-a73c809c-96ae93c2-813c187a.mp3]	
+1507178227943	1388273209891	At last! We only have two minutes		Endlich! Wir haben nur noch zwei Minuten Zeit	[sound:yandex-951e44fc-c70cde22-24716a9e-66c5f617-1470d5f2.mp3]	
+1507178285859	1388273209891	Finally you are coming		Endlich kommst du	[sound:yandex-a84d1dc5-18a6d520-12efcc57-dbba7d5c-c0d4f83d.mp3]	
+1507179394688	1388273209891	I have already been waiting (for) 10 minutes		Ich warte schon zehn Minuten	[sound:yandex-54a9d58e-d305d5c7-6458a185-d9d3e6d8-08035d3f.mp3]	
+1507179458521	1388273209891	It's always the same		Das ist immer dasselbe	[sound:yandex-71c9c69c-78d3c500-16905218-0c227740-701a793a.mp3]	
+1507182805173	1388273209891	This (m)		Dieser	[sound:yandex-73668cf3-6c589afe-e4bd1093-2e2e83f6-fe2c8f93.mp3]	
+1507183552139	1388273209891	This (f) (Nom.)		Diese	[sound:yandex-8baac58a-9cb3e479-a42542ef-f9e4ece9-e394f0a8.mp3]	
+1507183581728	1388273209891	This (n)		Dieses	[sound:yandex-a4ce57bb-d6d4374c-70c40614-b91d64a3-56d012ec.mp3]	
+1507183608786	1388273209891	These (pl)		Diese	[sound:yandex-8baac58a-9cb3e479-a42542ef-f9e4ece9-e394f0a8.mp3]	
+1507183625913	1388273209891	The party		Die Party	[sound:yandex-27cccabf-3d96eda5-71157bec-47b62a7c-86d9e9cb.mp3]	
+1507188613905	1388273209891	Many people are at the Fischer's tonight		Viele Leute sind heute abend bei Fischers	[sound:yandex-3bfd1cec-e5fc340b-d52473ab-16f6bbd9-ad9811d8.mp3]	
+1507188693182	1388273209891	Everybody is drinking and dancing and laughing alot		Alle trinken, lachen und tanzen viel	[sound:yandex-97a172a1-05b44c70-34c37660-0a89971b-91fa4180.mp3]	
+1507189100237	1388273209891	All are enjoying themselves alot		Alle amüsieren sich gut	[sound:yandex-8178687f-d384c084-36f3397a-7fea707f-a5aee0cc.mp3]	
+1507189196883	1388273209891	Who is the woman over there? She is all alone		Wer ist die Frau dort? Sie ist ganz allein	[sound:yandex-5e7549b4-cec8eaf9-b412fb9a-c426a31d-8da78d21.mp3]	
+1507189244184	1388273209891	Anne, who is the blond woman over there?		Anne, wer ist die blonde Frau dort?	[sound:yandex-41cfdd54-931c78f5-2df4253c-c1d86e9f-f6475f95.mp3]	
+1507189279243	1388273209891	I don't know, I dont know her. But I think she is a friend of Mrs Fishcher		Ich weiß nicht, ich kenne nicht. Aber ich glaube sie ist eine Freundin von Frau Fischer	[sound:yandex-77622cd4-be1a30ad-4eed248d-b5be73c2-23b7fe66.mp3]	
+1507189368926	1388273209891	The people drink and laugh		Die Leute trinken und lachen	[sound:yandex-60c3ddd8-683b3e39-0eac4861-99d27763-6dc763ae.mp3]	
+1507189393335	1388273209891	The child is all alone		Das Kind ist ganz allein	[sound:yandex-7ca267b2-52a9afb2-72428c8d-581d22e9-5c88b330.mp3]	
+1507189420951	1388273209891	All of them are enjoying themselves and dancing		Alle amüsieren sich und tanzen	[sound:yandex-7f7c5592-f375ab3e-c9872d72-ad9209eb-4a5733f6.mp3]	
+1507189499390	1388273209891	The small woman over there is my mother		Die kleine Frau dort ist meine Mutter	[sound:yandex-3aa66857-6974e890-63e3c1aa-977da7be-9d9a680a.mp3]	
+1507275394982	1388273209891	On the contrary, I do but I know nobody here		Doch sehr gern. Aber ich kenne niemand hier	[sound:yandex-c4513ac2-4413f7a3-38a4c211-8715645f-0a089b82.mp3]	
+1507275456988	1388273209891	Oh I see. May I introduce myself?		Ach so. Darf ich mich vorstellen?	[sound:yandex-6c800890-f040e2c0-33a07780-f52baf89-a6e0f937.mp3]	
+1507275502320	1388273209891	The Colleague&nbsp;		Der Kollege	[sound:yandex-30673573-f6892538-03e68eca-38593233-b632da7b.mp3]	
+1507275537017	1388273209891	That is not possible		Das ist nicht möglich	[sound:yandex-2f1b788a-2cbf536a-1637679e-5d6d57d7-ead6a099.mp3]	
+1507275688775	1388273209891	Why not?		Warum nicht?	[sound:yandex-125bc761-92ef8d08-bfe5b4b4-6c79a99b-f1d59070.mp3]	
+1507275707543	1388273209891	Slim		schlank	[sound:yandex-2d145163-fa94a27d-3493582b-9bc77d78-8f52de29.mp3]	
+1507275749437	1388273209891	Dark haired		dunkel	[sound:yandex-19c15cd9-b47a8a4c-e5baaa30-0f6e36d1-588ec961.mp3]	
+1507275773843	1388273209891	Not so slim		Nicht so schlank	[sound:yandex-91cfe127-4abe59ef-39eb739e-55c86159-e6f8eb7b.mp3]	
+1507275796770	1388273209891	Fat		dick	[sound:yandex-3a303de2-dc75ec7e-11c02ccb-4d80cefd-a5b1fbab.mp3]	
+1507275819503	1388273209891	thin		dünn	[sound:yandex-1b55431f-795f205f-3c3379d5-ca36688a-6081d871.mp3]	
+1507275857229	1388273209891	Do you like drinking coffee? (formal)		Trinken Sie gern Kaffee?	[sound:yandex-b34b2b86-bbecceae-5baf5a34-5f04677b-239bd516.mp3]	
+1507275906419	1388273209891	What is your sister's name (formal)		Wie heißt Ihre Schwester?	[sound:yandex-1684aa99-8a9dfac6-7aad4673-3f7ca6d0-67e9efe1.mp3]	
+1507275958625	1388273209891	We know nobody here		Wir kennen niemand hier	[sound:yandex-0bde8e3b-25241540-0baa7be5-e5aa874b-9f0a85f3.mp3]	
+1507276015872	1388273209891	Do you like going to the cinema (formal)		Sie gehe gern ins Kino?	[sound:yandex-53bc73c5-f94fd589-dd6808dc-988e29aa-d6c390f0.mp3]	
+1507604934285	1388273209891	Maybe Helmut is free too		Vielleicht Helmut hat auch Zeit	[sound:yandex-dc558cb6-e280560a-28307298-71c76273-a1a716d3.mp3]	
+1507605265922	1388273209891	Super! We are all free		Prima! Wir sind alle Frei	[sound:yandex-eb69433c-f610a7fd-848a17db-26d82d3d-07e3bd41.mp3]	
+1507605605158	1388273209891	Let's meet at 8oclock		Treffen wir uns um acht Uhr!&nbsp;	[sound:yandex-49ac7339-73a73708-e3310eb7-ffa34ea0-8bd02e9b.mp3]	
+1507606176429	1388273209891	Look (once) Peter. Is that not your girlfriend over there?		Schau'mal Peter. Ist das nicht deine Freundin dort?	[sound:yandex-20c41fd2-e67374fa-ea25367d-2b6c38db-48f1776f.mp3]	
+1507606249807	1388273209891	Gosh yes! and your girlfriend and Helmut's wife too		Mensch ja! und deine Freundin und Helmuts Frau auch	[sound:yandex-126aed72-04ef5a42-1616d346-bbc123e3-1d1689fa.mp3]	
+1507606325222	1388273209891	Think of that! That's a nice surprise		Na Sowas! Das ist ja eine Überraschung	[sound:yandex-2d436298-129881b7-be40f942-968f9ed1-442a5a39.mp3]	
+1507606460808	1388273209891	Look (once). Is that not your mother? (formal)		Schauen Sie'mal! Ist das nicht Ihre Mutter?	[sound:yandex-a49481f4-5a111aaa-7e1de9ca-5871b958-371d2e4d.mp3]	
+1507606520051	1388273209891	Let us meet at 10 O'clock at the cafe		Treffen wir uns um 10 Uhr ins cafe	[sound:yandex-b6f3947a-af8cb88b-64d66f8c-75268bc5-90861a38.mp3]	
+1507606583511	1388273209891	Her brother is very tall and fat		Ihr bruder ist sehr groß und dick	[sound:yandex-2fb387aa-bebe814f-83225a52-7c5b4eb6-3ff1de57.mp3]	
+1507606869473	1388273209891	My wife has too much work		Meine Frau hat zuviel arbeit	[sound:yandex-0e740d95-2bf33b84-be6a4f87-5d1ce3af-af370876.mp3]	
+1507606912864	1388273209891	France		Frankreich	[sound:yandex-3c4b3dee-5bfb3a6b-5f335552-9313c078-de3885cc.mp3]	
+1507614833808	1388273209891	South america		Südamerika	[sound:yandex-bc015474-6d8e049b-0ba3bd9c-e4e10ecb-8d150ea1.mp3]	
+1507614882688	1388273209891	India		Indien	[sound:yandex-eb29664a-4241b518-7706e220-b3eaabbe-ed2ecf3c.mp3]	
+1507614901578	1388273209891	sometimes		Manchmal	[sound:yandex-1e1d99c7-f99ebf4f-8e1af8fb-51ffe4d2-636e3e09.mp3]	
+1507614937848	1388273209891	Are you nuts?		Sind Sie verrückt?	[sound:yandex-f4ef667a-8f06ff73-31fbe89d-e890ceaf-7264571f.mp3]	
+1507614975702	1388273209891	I only want to sleep		Ich möchte nur schlafen	[sound:yandex-47a6d9ea-3f115501-b85cb03d-2b362bc5-aaba62ec.mp3]	
+1507868275727	1388273209891	Where are you going on holiday Mrs Herder?		Wohin fahren Sie in Urlaub Frau Herder?	[sound:yandex-7c2f4a71-6e4d2bd8-1a66b05e-5046c355-d5b9cd1a.mp3]	
+1507868349241	1388273209891	I am going to Hamburg and to the Baltic Sea (f) if the weather is fine		Ich fahre nach Hamburg und an die Ostee, wenn das wetter schön ist	[sound:yandex-f1be3c25-e873e976-8004f5a7-361a5660-d35b3820.mp3]	
+1507868450845	1388273209891	We are going (by car) to Austria, to the alps and to Salsburg if the weather is good		Wir fahren nach&nbsp;Österreich in die Alpen und nach Salzburg wenn das wetter schön ist	[sound:yandex-7c8efe17-1a52b06e-8c9382d6-474526eb-0fb12124.mp3]	
+1507868573547	1388273209891	Do you already know Salzburg?		Kennen Sie schon Salzburg?	[sound:yandex-75591509-8ab95264-0c1248be-2399e9ed-0d6085d0.mp3]	
+1507868633662	1388273209891	The old town is really very nice and the surroundings too		Die Altstadt ist wirklich sehr schön und die Umgebung auch	[sound:yandex-90541ad4-79e86589-e0758acb-315bd7fe-9f6cc166.mp3]	
+1507868718149	1388273209891	Oh you know, I'll go to Mallorca because the weather is always so bad here		Ach wissen Sie, ich fliege nach Malloraca, denn hier ist das Wetter immer so schlecht.	[sound:yandex-44ab6dc9-ccab2d0a-8e43e391-66c5e4ac-9be3e01f.mp3]	
+1507960665997	1388273209891	I want to work in Germany		Ich will in Deutschland arbeiten	[sound:yandex-bded9a6b-fe4bbfe8-3e3a99b6-cf5fc317-e5f59f1f.mp3]	
+1507960732979	1388273209891	My company (f) has a subsidiary (f) in Frankfurt		Meine Firma hat eine Filiale in Frankfurt	[sound:yandex-2544bbac-d2dcba5d-71c9a8ef-fe16c4b5-cf4bba91.mp3]	
+1507960791513	1388273209891	And when do you want to go to Frankfurt?		Und wann wollen Sie nach Frankfurt gehen?	[sound:yandex-d00227ae-04126d4f-f831537c-5b7e41c5-db9cde3a.mp3]	
+1507960840361	1388273209891	My job starts in 4 months		Meine Arbeit beggint in vier Monaten	[sound:yandex-539c24df-5cb2a1f6-a8f9deb0-e7ac84da-471d73ce.mp3]	
+1507960945344	1388273209891	But that's impossible. You can't learn German in 4 months		Aber das ist nicht möglich. Sie können nicht in vier Monaten Deutsch lernen	[sound:yandex-1b58d883-7bda7c0e-1c75e8cb-117bff21-bb219b9c.mp3]	
+1507961066425	1388273209891	I can try. The first step is always the hardest		Ich kan es versuchen. Aller Anfang ist schwer	[sound:yandex-3e006e6c-bfd54512-37e6ae74-2d395025-cd68b8b6.mp3]	
+1507961166626	1388273209891	Of course I speak English		Natürlich spreche ich English.	[sound:yandex-25dc9cee-6a9ca3b6-a6a07855-1f66c4ce-b30add83.mp3]	
+1507961244295	1388273209891	But listen, I already speak a little bit of German too		Aber hören Sie, Ich spreche auch schon ein bißchen Deutsch	[sound:yandex-29f7ee3f-bdc62e4d-f44e4607-01be45cb-1f5727d4.mp3]	
+1507961460737	1388273209891	Where is the Ritz hotel?		Wo ist das Hotel Ritz?	[sound:yandex-4579a747-fbe37a90-f3612680-b1c411ec-eb3175f7.mp3]	
+1507961536628	1388273209891	When is the next train to France?		Wann fährst der nächste Zug nach Frankreich?	[sound:yandex-a00d0c26-bc8c25b5-8bbfac21-4785d7c3-cbf3ae81.mp3]	
+1507961938682	1388273209891	That's not bad at all is it		Das ist doch schon ganz gut, nicht wahr?	[sound:yandex-ae8e24cd-052639d9-6035e987-f4960727-5b3542e1.mp3]	
+1508459875817	1388273209891	On the contrary		Doch sehr gern	[sound:yandex-85816633-29f0acf0-0d416e5b-952880ec-7b0994f7.mp3]	
+1508460193366	1388273209891	I feel so depressed		Ich bin so deprimiert	[sound:yandex-e3cdfdfc-e48434ae-6849a1e6-c94775ca-0ed93342.mp3]	
+1508460251165	1388273209891	No I'd rather go home		Nein, ich lieber gehe nach Hause	[sound:yandex-2fe2856d-6174b154-48322e3d-66d7029f-50e6ca69.mp3]	
+1508460304332	1388273209891	I have work tomorrow morning		Ich muß morgen früh arbeiten	[sound:yandex-90c35959-7572d9ee-69ee3595-f01c4903-7cf78278.mp3]	
+1508460491131	1388273209891	Tomorrow morning&nbsp;		morgen früh&nbsp;	[sound:yandex-c1d13633-a4f5ef83-354e560f-763722dd-2e61468e.mp3]	
+1508460518678	1388273209891	Oh come! it's not late yet		Ach Komm! Es ist noch nicht spät	[sound:yandex-bbf342ac-2b2f85cd-2f955a80-a2da414c-912c1385.mp3]	
+1508460607028	1388273209891	We wont stay for long		Wir bleiben nicht lange	[sound:yandex-972ce6b6-10d393cd-5ebdd03c-22bb6666-ff89cd90.mp3]	
+1508460637021	1388273209891	You always say that and then you stay for 3 or 4 hours		Das sagst du immer, und dann bleibst du 3 oder 4 Stunden	[sound:yandex-8cefb35d-28300d36-3739d311-6c888f79-544749cb.mp3]	
+1508462429198	1388273209891	Would you like a coffee?		Möchten Sie einen Kaffee?	[sound:yandex-507b6ba7-7d875d3d-63baf446-b9b8ec15-6a402d7c.mp3]	
+1508462629674	1388273209891	Peter does not have to work today		Peter muss heute nicht arbeiten	[sound:yandex-9f02d184-e45bd139-d894aa07-5609524f-17832d1f.mp3]	
+1508468637763	1388273209891	He always stays (for) one or two hours		Er bleibt immer ein oder zwei Stunden	[sound:yandex-7cbac34a-8680b99d-3b6abf21-4260ff61-e9ad5afa.mp3]	
+1508468700602	1388273209891	(informal)You see! Now you are already drinking your 5th Whiskey		Siehst du! Jetzt trinkst du schon den fünften Whiskey	[sound:yandex-6d7d2610-48cef42d-78d11314-b4affc11-3e1c9b1c.mp3]	
+1508492208275	1388273209891	That is also not better		Das ist auch nicht besser	[sound:yandex-a56c63e7-c98d43be-857b5f77-26348b74-d78cb474.mp3]	
+1508492582404	1388273209891	Oh no, I feel so good here		Oh nein, Es geht mir so gut hier	[sound:yandex-24de520e-164babc9-f3edd0d2-cb3f742c-b6b3aca9.mp3]	
+1508493456841	1388273209891	What time is it?		Wieviel Uhr ist es?	[sound:yandex-7454384b-a365e5a3-65dca6b4-4775157a-0eb05c7f.mp3]	
+1508493497509	1388273209891	Yes, it is midnight, ghosttime!		Ja es ist Mitternacht, Geisterstunde!	[sound:yandex-3e6f87f2-798d6972-4652885b-c2d6d7f0-62c259b5.mp3]	
+1508494173552	1388273209891	Ghosts hour		Geisterstunde	[sound:yandex-02ee646f-d9222a9a-34a89401-8e35711e-3cc43d80.mp3]	
+1508494216184	1388273209891	Ah Come on at last! I will bring you home		Also Komm endlich! Ich bringe dich nach Hause	[sound:yandex-e61614fc-6e01ce79-a3732978-29275b14-9a9eb293.mp3]	
+1508494266788	1388273209891	Wait I need another small Whiskey.. against the odds		Warte Ich brauche noch einen kleinen Whiskyr.. gegen die Geister	[sound:yandex-cdd0aa3f-b2fbc107-42bb3c2e-b5aee194-82764a61.mp3]	
+1508642214442	1388273209891	I have a toothache for the last 3 days		Ich habe seit drei Tagen Zahnschmerzen	[sound:yandex-f5a0b27b-62249a90-59703b02-bf127658-a436d37e.mp3]	
+1508642274546	1388273209891	The dentist		Der Zahnarzt	[sound:yandex-7a865c2c-afdafaa7-2cf75e52-971e9fbb-49f516fb.mp3]	
+1508642294792	1388273209891	My aunt knows one. She finds him very kind		Meine Tante kennt einen. Sie findet ihn sehr nett	[sound:yandex-6edece92-c94991dc-fc67e0ef-3a78d018-63d48984.mp3]	
+1508642338445	1388273209891	His telephone number is 26 35 16		Seine Telefonnummer ist 26 35 16	[sound:yandex-70b75416-d7e5dcad-bd1296f1-2f4073b9-ba91e140.mp3]	
+1508642393994	1388273209891	Many thanks. Tell me, has your aunt known him for a long time? (informal)		Vielen dank! Sagen Sie mir, kennt Ihre Tante ihn schon lange?	[sound:yandex-f5b97652-e6156b67-6f5e7b86-cf8ed959-aa51fe72.mp3]	
+1508642480587	1388273209891	Oh yeah? What kind of problems?		Oh ja? Was für probleme?	[sound:yandex-b3eac905-be7d3ed6-20facd71-eee28ead-a5bc15d8.mp3]	
+1508652782221	1388273209891	She loses her fillings, has abscesses and so on		Sie verliert ihre Plomben, hat Abszesse und so weiter	[sound:yandex-cafe4154-daa61d52-c7b21154-d36bd61e-6b5708aa.mp3]	
+1508652914143	1388273209891	Oh yes for about 10 years		Oh ja seit ungefähr zehn Jahren	[sound:yandex-4aab1a62-8dbb98f1-03b1d662-56d460cf-c68d6e31.mp3]	
+1508652980164	1388273209891	But I assure (tell) you, the dentist is really fantastic		Aber ich sage Ihnen, der Zahnartzt ist wirklich phantastisch	[sound:yandex-159f2046-eb4f0c87-89409773-7942b626-46a3b4ef.mp3]	
+1508653064334	1388273209891	What kind of book is that?		Was für ein buch ist das?	[sound:yandex-98c38501-3b679fe2-95c7a68c-f0ea40e2-d641e597.mp3]	
+1508653108382	1388273209891	I have known him for about 3 years		Ich kenne ihn seit ungefähr drei Jahren	[sound:yandex-f75d56ce-10e1f9e7-42e463fa-d388230f-7e0b3d08.mp3]	
+1508653192056	1388273209891	What kind of car have you got? (informal)		Was für ein Auto hast du	[sound:yandex-4e62e494-dd34cb55-01e2345f-6d945477-cc080dbc.mp3]	
+1508653240408	1388273209891	Stop you must not park there		Halt! Hier dürfen Sie nicht parken!	[sound:yandex-2b9fcc62-bc485b9b-048fe26c-4ec5c6b5-0432efb4.mp3]	
+1508653433922	1388273209891	Back		zurück	[sound:yandex-61f4cf87-81e4acde-0ee5304a-f419d213-993a27ba.mp3]	
+1508653474412	1388273209891	No! No parking here even for 5 minutes		Nein! Hier ist Parkverbot, auch für fünf Minuten	[sound:yandex-1f843bb7-0a873483-ec13c782-c3b9be5e-dd4cf916.mp3]	
+1508653556846	1388273209891	I know but there is no other parking space (m)		Ich weiß, aber es gibt nun'mal keinen anderen Parkplatz hier	[sound:yandex-6813afa5-37e54792-322bf11b-d142165b-b6cf3eb5.mp3]	
+1508653625080	1388273209891	Listen, I am not going to argue with you		Hören Sie, ich diskutiere nicht mit Ihnen.	[sound:yandex-c7e05fcd-47f23f6b-2c46f651-be115cf4-6d4f64c4.mp3]	
+1508653689155	1388273209891	Don't be like that		Seien Sie doch nicht so!	[sound:google-989dc84b-1edb7a2f-0f8d7c9b-93296810-b09dc853.mp3]	
+1508653743932	1388273209891	I just have to go (quickly) to the bank (f)		Ich muß nur schnell auf die Bank	[sound:yandex-d2d131c6-e270c49a-680730b4-5512a63a-caae8349.mp3]	
+1508653787171	1388273209891	..and it's only open until 4pm		..und die ist nur bis sechzehn Uhr geöffnet	[sound:yandex-00443034-9702f8af-1acb15b3-ca702f3c-a8505d6c.mp3]	
+1508653859076	1388273209891	It is 7 minutes to 4		Es ist sieben Minuten vor vier	[sound:yandex-c8656a0f-bc639cb4-7877de2d-67cb1c20-bc71e0d9.mp3]	
+1508653902008	1388273209891	Oh then you dont have much time&nbsp;		Oh dann haben Sie nicht mehr viel Zeit	[sound:yandex-1771ef0c-04594818-c0fb05a4-b614dca3-3f607f7a.mp3]	
+1508653994717	1388273209891	Hurry up!		Machen Sie schnell	[sound:yandex-262f0dbd-c0cdeaae-4134bea5-7f90644e-099d70ca.mp3]	
+1508654015403	1388273209891	You are really sweet		Sie sind wirklich süß	[sound:yandex-a35e0d6c-9f6832ba-09d8edbd-2b75539f-be4e8504.mp3]	
+1508654059003	1388273209891	I will be back immediately		Ich komme sofort zurück&nbsp;	[sound:yandex-d97944de-c6af0a5a-21db9aeb-e4f9fadd-77e5f11e.mp3]	
+1508654112405	1388273209891	You must not smoke here		Sie dürfen hier nicht rauchen	[sound:yandex-e5289a06-27b4c5a7-c3e4c126-29e3f247-0f9fb269.mp3]	
+1508655555707	1388273209891	No smoking here (smoking is forbidden here)		Hier ist rauchen verboten	[sound:yandex-0ef19796-4d175692-c07877b2-a18b1c39-72da85dc.mp3]	
+1508655600579	1388273209891	I must hurry up		Ich muss schnell machen	[sound:yandex-021e0207-13b88d63-b5511608-f644b55f-37c27260.mp3]	
+1508655647470	1388273209891	It is 10 to 8		Es ist zehn vor acht	[sound:yandex-758ea125-92cf1f79-c5b0e912-99efb497-1c4024a0.mp3]	
+1508655678142	1388273209891	My mother will be back immediately		Meine mutter kommt sofort zurück	[sound:yandex-86b24ef6-14dba561-b6a55e9e-e0c67900-0a0504d5.mp3]	
+1508655729817	1388273209891	The supermarket is open from 9am to 6pm		Der Supermarkt ist von neun Uhr bis achtzehn Uhr geöffnet	[sound:yandex-b1b8d663-e5f2f29b-60ac9f83-ecfbdb8a-aa6e7a58.mp3]	
+1508656189590	1388273209891	Hello Mutti. I have a bears hunger!		Hallo Mutti! Ich habe einen Bärenhunger	[sound:yandex-c8bb1edd-4328f5bd-49e75b71-9f37ff9a-d4a4e86b.mp3]	
+1508656390892	1388273209891	What are we eating for lunch today?		Was essen wir heute mittag	[sound:yandex-adf3a108-87869a51-129453d9-eac3e478-73dc90da.mp3]	
+1508656424121	1388273209891	There are Frankfurters and potato salad (m)		Es gibt Frankfurter Würstchen und Kartoffelsalat	[sound:yandex-d8584746-0c1aed77-2e4f1d6e-bc137559-f7836e02.mp3]	
+1508656824450	1388273209891	Oh again! I dont like potato salad		Och schon wieder! Ich mag keinen kartoffelsalat	[sound:yandex-c2e348ef-0030f83e-b2eb5fe7-80601ac2-84a3e6bb.mp3]	
+1508656867922	1388273209891	Then you just eat yur sausages without potato salad		Dann isst du deine Würstchen eben ohne Kartoffelsalat	[sound:yandex-f05a249e-0d522169-75909e05-366523c1-a23cde22.mp3]	
+1508656959049	1388273209891	As you like (want to) with or without mustard		Wie du willst, mit oder ohne senf	[sound:yandex-f4f61ac2-cbad8d39-3a8a79a1-662130a2-26d956c3.mp3]	
+1508657928699	1388273209891	May I have some rice perhaps?		Kan ich vielleicht Reis haben?	[sound:yandex-05e6c99d-a4d72879-30e97000-f4ac6bd2-897de945.mp3]	
+1508658032089	1388273209891	Yes but you must cook it yourself		Ja aber du musst ihn dir selbst kochen (informal)	[sound:yandex-a22b9f1b-884d485d-efa3a0b6-c4fee288-ab460795.mp3]	
+1508658100313	1388273209891	Well I will do it myself. Do you also want some rice?		Gut ich mache ihn selbst. Willst du auch Reis?	[sound:yandex-be48ce6d-8d38dde7-5e93f3bc-f3680877-27716dde.mp3]	
+1508658144036	1388273209891	Yes, sure. That's a good idea		Ja gern. Das ist eine gute Idee	[sound:yandex-073cda71-54226068-d0f286cf-9d686440-0490719f.mp3]	
+1508658178523	1388273209891	What is there for lunch today		Was gibt es heute mittag zu essen	[sound:google-a4d1caa1-6467f39d-56b8a0da-19030d44-3e4953e6.mp3]	
+1508658227654	1388273209891	You can do it by yourself		Das kannst du selbst machen	[sound:yandex-0e63892e-3e3aa179-a034176a-bb392884-ae9e20e9.mp3]	
+1508723391538	1388273209891	Do you like your boss?		Magst du deinen Chef gern?	[sound:yandex-fc78b9a7-017e69f6-ae3b33b3-89caeca0-22260b40.mp3]	
+1508723442890	1388273209891	Don't you want any potato salad? (informal)		Willst du keinen Kartoffelsalat?	[sound:yandex-0fb9e1a8-d0027d90-16b52f3e-e5b732b8-310da6b0.mp3]	
+1509013553620	1388273209891	No idea, we must ask		Keine Ahnung. Wir müssen fragen	[sound:yandex-c872f7f1-a0804484-e886aec9-ea8338d9-e750dc0f.mp3]	
+1509016004936	1388273209891	The people have no time		Die Leute haben alle keine Zeit	[sound:yandex-5b53a0b4-84b496a6-72c96797-95a5703e-4ed7db57.mp3]	
+1509016051080	1388273209891	I'll be back at once		Ich bin gleich zurück	[sound:yandex-e027f2f1-34db3e08-a7589a50-4f151551-37876864.mp3]	
+1509016108137	1388273209891	Certainly Sir. Would you like a double room or a single room?		Sicherlich mein Herr. Möchten Sie ein Dopplezimmer oder ein Einzelzimmer?	[sound:yandex-f0609fee-e6a7320f-4df9389b-7dda62fc-9cbdd94d.mp3]	
+1509016185220	1388273209891	A room for six people persons		Ein Zimmer für sechs Personen bitte	[sound:yandex-d60e16cb-42645b14-26fe65cd-34a658d9-2dc4fd44.mp3]	
+1509016238146	1388273209891	Then take a couchette in that case.&nbsp;		Dann nehmen Sie doch gleich einen Liegewagen.	[sound:yandex-3155b096-81c999c2-757a2497-db5cad1b-e149b921.mp3]	
+1509676759615	1388273209891	Then take a couchette (m) in that case		Dann nehmen Sie doch gleich einen Liegewagen.	[sound:yandex-3155b096-81c999c2-757a2497-db5cad1b-e149b921.mp3]	
+1509678353514	1388273209891	Oh yes. That is a good idea.&nbsp;		Ah ja das ist eine gute Idee.	[sound:yandex-5b618d2e-60504d76-d712a816-69157cc4-14df3910.mp3]	
+1509678413923	1388273209891	Can you tell me where the trainstation is?&nbsp;		Können Sie mir bitte sagen, wo der Banhof ist?	[sound:yandex-11d22a6e-9e15da8a-1f4f40d1-b171d423-8d87aa4f.mp3]	
+1509678563929	1388273209891	You take (drive) the first street (on the) left and then the second (on the)&nbsp;right.		Sie fahren die erste Straße links und dann die zweite rechts	[sound:yandex-25b317ca-78cb538b-8e33ebb6-d17367ae-5aad28eb.mp3]	
+1509679693781	1388273209891	You'll see the trainstation just across the street		Sie sehen den Bahnhof gleich gegenüber.	[sound:yandex-6ea87dee-8c1ea3c2-7ce34cb6-26a3b8c8-0c251b13.mp3]	
+1509681209326	1388273209891	Is it really calm?		Ist sie wirklich ruhig?	[sound:yandex-9b365a45-7ba32109-47577615-a1c7c5e8-dff61875.mp3]	
+1509681310762	1388273209891	Yes extraordinarily calm. No children, no dogs..		Ja außergewöhnlich ruhig. Keine Kinder, keine Hunde	[sound:google-2823a451-a52c3c8c-0e8e081e-a59d2ee9-42a4c2d6.mp3]	
+1509683428185	1388273209891	The first street on the left and then always straight on		Die erste Straße links und dann immer geradeaus	[sound:google-64dad7c2-9f603236-156e41a7-1e3a6177-ca90d933.mp3]	
+1509689650840	1388273209891	We will come immediately		Wir kommen gleich	[sound:google-f81a4e1c-8581bd1c-a934d439-9224f80b-c3f5e4aa.mp3]	
+1509689723272	1388273209891	Fine! When can you show me the apartment?		Gut! Wann können Sie mir die Wohnung zeigen?	[sound:google-888bb846-383176c0-066bd058-32e66037-7289a7ce.mp3]	
+1509690054551	1388273209891	Does half past 10 tomorrow suit? &nbsp;Yes that suits me		Paßt Ihnen morgen um halb elf? Ja das paßt mir	[sound:google-644ad22f-104f35ce-ac844ab8-b3d2d2da-0190b13f.mp3]	
+1530278706561	1388273209891	Does 10:30 tomorrow suit you?		Paßt Ihnen morgen um halb elf?	[sound:google-34325ec4-87c66c8f-ab2758ac-0de014ad-7cbad437 (1).mp3]	
+1530279854383	1388273209891	Yes that suits me		Ja, das paßt mir.	[sound:google-aa81c9e1-8cfc6b2e-d90dc108-7b1fd644-a0717e09.mp3]	
+1530279898534	1388273209891	Do you like the apartment		Gefällt Ihnen die Wohnung?	[sound:google-2f6975c2-8c4b64bd-c56ef4b3-620026d3-2f731d76 (1).mp3]	
+1530279948997	1388273209891	Yes I like it alot		Ja. Sie gefällt mir sehr gut.	[sound:google-214f3e66-78ea1409-c0cb8750-caee2f5c-d8d380f4.mp3]	
+1530279997514	1388273209891	Fine! Then let's go to my office to (<i>and) </i>settle the formalities at once		Gut! Dann gehen wir in mein Büro und erledigen sofort die Formalitäten.	[sound:google-e8e295f4-f6d5b853-0da2f74e-b9a867b8-063c3beb.mp3]	
+1530281932537	1388273209891	Wait! I must show the apartment to my husband first.		Warten Sie! Ich muss die Wohnung zuerst meinem Mann zeigen.	[sound:google-b9b9284a-bea4b2f6-07bf588f-b2451cde-aa186f8a.mp3]	
+1530282062035	1388273209891	Are you married		Sie sind verheiratet?	[sound:google-c6c55b8b-399a85b4-b97c1a5e-df557036-3cf0a656.mp3]	
+1530333974479	1388273209891	I am set in my ways		Ich habe meine Gewohnheiten	[sound:google-68ecd25d-c667aa59-7e9ddc91-59c16886-9a4bb654.mp3]	Gewohnheiten = habits
+1530338279686	1388273209891	That doesn't change anything		Das ändert nichts.	[sound:google-5d4cc9b7-e7e13869-407042f5-90b2beba-6fce681e.mp3]	
+1530590255146	1388273209891	and then always straight on		und dann immer geradeaus	[sound:google-3cc4f299-5acaa000-e3f9e728-48b227de-539f3b6a.mp3]	
+1566401939734	1566398531509	<b>[sound:3.mp3] Pronto! Vorrei parlare con Davide, per favore.</b>	¡Oiga! Desearía hablar con David, por favor.
+1566402002726	1566398531509	<b>[sound:4.mp3] Davide non é a casa.</b>	David no está en casa
+1566402085288	1566398531509	<b>[sound:5.mp3] lo sono Francesca. Chi é?</b>	Yo soy Francisca. ¿Quién&nbsp;es?
+1566402124622	1566398531509	<b>[sound:6.mp3] Sono Marco</b>	Soy Marcos
+1566402154265	1566398531509	<b>[sound:7.mp3]</b><div><b>Ciao, Francesca! Come va?</b><div><b>Bene, grazie, e tu? - Benissimo!</b></div></div>	¡Hola Francisca! ¿Qué tal?<div>Bien, gracias, ¿y tú? - ¡Muy bien!</div>
+1566402388154	1566398531509	<b>[sound:8.mp3]&nbsp;Sei a Milano?</b>	¿Estás en Milán?
+1566402447518	1566398531509	<b>[sound:9.mp3] No, non sono a Milano, sono a Roma.&nbsp;</b><div><b>Arrivo a Milano domani mattina.</b></div>	No, no estoy en Milán, estoy en Roma. Llego a<br>Milán mañana por la mañana.
+1566402501471	1566398531509	<b>[sound:10.mp3]&nbsp;Benissimo! A domani, allora.</b>	Muy bien! Hasta mañana, entonces
+1566402555897	1566398531509	<b>[sound:11.mp3][sound:12.mp3] D'accordo!<br>Arrivederci!</b>	¡De acuerdo!<br>¡Hasta la vista!
+1566402610763	1566398531509	<b>[sound:13.mp3]&nbsp;Sei di Milano?</b>	¿Eres de Milán ?
+1566402814116	1566398531509	<b>[sound:14.mp3][sound:15.mp3] No, non sono di Milano, sono di Roma.</b>	No, no soy de Milán, soy de&nbsp;Roma.
+1566402861684	1566398531509	<b>[sound:16.mp3] Marco è di Roma.</b>	Marco es de Roma.
+1566402900710	1566398531509	<b>[sound:17.mp3] Francesca e Davide sono di Milano</b>	Francisca y David son de Milán
+1566402932765	1566398531509	<b>Siete di Firenze? [sound:18.mp3]</b>	¿Sois de Florencia?
+1566402977667	1566398531509	<b>[sound:19.mp3] No, non siamo di Firenze, siamo di Bologna.</b>	No, no somos de Florencia.&nbsp;somos de Bolonia.
+1566664998101	1566398531509	<b>[sound:2.mp3] Alla stazione</b>	A la estación
+1566665108244	1566398531509	<b>[sound:3 (1).mp3] Buongiorno, signorina. Vorrei un bigletto di<br>seconda classe per Milano.</b>	Buenos días, señorita. Desearía un billete de<br>segunda clase para Milán.
+1566665227248	1566398531509	<b>[sound:4 (1).mp3] E un'informazione, per cortesia</b>	Y una información, por favor (por cortesía)
+1566665268837	1566398531509	<b>[sound:5 (1).mp3] questo&nbsp;treno ha un vagone-ristorante? - No, non cel'ha</b>	¿este tren tiene&nbsp;un vagón-restaurante? - No, no lo tiene.
+1566665325841	1566398531509	<b>[sound:6 (1).mp3] Marco, hai un giornale per il viaggio?</b>	Marcos, ¿tienes un periódico para el viaje?
+1566665398480	1566398531509	<b>[sound:7 (1).mp3] Si, ce l'ho, e ho anche una rivista.</b>	Si tengo uno, y (tengo) también una revista.
+1566665446132	1566398531509	<b>[sound:8 (1).mp3] Marco ha un posto in uno scompartimento per fumatori.</b>	Marcos tiene un sitio en un compartimento para&nbsp;fumadores.
+1566665490514	1566398531509	<b>[sound:9 (1).mp3]&nbsp;</b>Ha un pacchetto di sigarette, ma non ha un&nbsp;accendino.	Tiene un paquete de cigarrillos, pero no tiene un&nbsp;encendedor.
+1566665558233	1566398531509	<b>[sound:10 (1).mp3] Scusi, Lei ha da accendere? - Si. certo.</b>	Perdone, ¿tiene usted fuego (para encender)? - Si, claro.
+1566665597968	1566398531509	<b>[sound:11 (1).mp3]&nbsp;to non ho da accendere.</b>	Yo no tengo fuego (para encender).
+1566665632279	1566398531509	<b>[sound:12 (1).mp3] Tu hai una rivista.</b><br>	Tú tienes una revista.
+1566665659649	1566398531509	<b>[sound:13 (1).mp3]&nbsp;Lui ha un accendino</b>	El tiene un encendedor
+1566665689570	1566398531509	<b>[sound:14 (1).mp3] lei non ha un giornale.<br>Noi abbiamo un'amica a Milano</b>	ella no tiene un periódico.&nbsp;Nosotros tenemos una amiga en Milán
+1566665739287	1566398531509	<b>[sound:15 (1).mp3] voi avete&nbsp;un amico a Roma.</b>	vosotros&nbsp;tenéis un amigo en Roma.
+1566665902016	1566398531509	<b>[sound:16 (1).mp3] Loro hanno una valigia.</b>	Ellos tienen una maleta.
+1566665939824	1566398531509	<b>[sound:17 (1).mp3]&nbsp;Scusi, signore, ha una sigaretta?</b>	Perdone, señor, ¿tiene un cigarrillo?
+1566665960688	1566398531509	<b>[sound:18 (1).mp3] No, non&nbsp;ce l'ho</b>	No, no tengo
+1566669596628	1566398531509	<b>[sound:2 (1).mp3] Chi sono</b><br>	¿Quiénes son?
+1566670337658	1566398531509	<b>[sound:3 (2)</b><b>.mp3]&nbsp;[sound:4 (2).mp3]</b>&nbsp;<b>Francesca e Davide Brambilla abitano a Milano</b>	Francisca y David Brambilla viven en Milán
+1566670543140	1566398531509	<b>[sound:5 (2).mp3] in Via Verdi nove</b>	En calle Verdi 9
+1566670589247	1566398531509	<b>[sound:6 (2).mp3] Davide è avvocato e lavora al tribunale di Milano.</b>	David es abogado y trabaja en el tribunal de Milán.
+1566670642970	1566398531509	<b>[sound:7 (2).mp3] Francesca è medico e lavora all'Ospedale di&nbsp;Sesto San Giovanni.</b><br>	Francisca es médico y trabaja en el hospital de&nbsp;Sesto San Giovamni.<br>
+1566670675765	1566398531509	<b>[sound:8 (2).mp3]&nbsp;Marco, invece, ha una laurea in chimica</b>	Marcos, en cambio, tiene una licenciatura en quimica
+1566670716643	1566398531509	<b>[sound:9 (2).mp3] ma ‘non lavora ancora.</b>	pero no trabaja todavia.
+1566670753301	1566398531509	<b>[sound:10 (2).mp3] Va a Milano per un colloquio di lavoro in un'industria chimica.</b>	Va a Milán para una entrevista de empleo en una industria química.<br>
+1566670791344	1566398531509	<b>[sound:11 (2).mp3] Dove lavori Marco?</b>	Donde trabajas Marco?
+1566670815104	1566398531509	<b>[sound:12 (2).mp3] Non lavoro ancora.</b>	No trabajo ahora
+1566670843006	1566398531509	<b>[sound:13 (2).mp3] Lei lavora a Milano, signora Brambilla?</b>	¿Usted trabaja en Milán, señora Brambilla?
+1566670872006	1566398531509	<b>[sound:14 (2).mp3]&nbsp;Dove abitate?</b>	¿Dónde vivis?
+1566670965617	1566398531509	<b>[sound:15 (2).mp3] Abitiamo in Via Manzoni, al&nbsp;numero quattro.</b>	Vivimos en calle Manzoni, en el<br>número cuatro.
+1566671006459	1566398531509	<b>[sound:16 (2).mp3]Loro lavorano a Milano. [sound:17 (2).mp3]noi, invece, lavoriamo<br>a Roma.</b><br>	Ellos trabajan en Milán ; nosotros, en cambio, trabajamos en Roma.
+1566671070260	1566398531509	<b>[sound:18 (2).mp3] Marco desidera lavorare a Milano.</b>	Marcos desea trabajar en Milán.
+1566926816568	1566398531509	[sound:2 (2).mp3]L'arrivo a Milano<br>	La llegada a Milán<br>
+1566927077664	1566398531509	<b>[sound:3 (3).mp3]Siamo in orario?</b><br>	¿Estamos en horario? (¿ Vamos bien de hora ?)
+1566927147796	1566398531509	[sound:4 (3).mp3] domanda una signora a Marco<br>	Pregunta una señora a Marco<br>
+1566927198531	1566398531509	<b>[sound:5 (3).mp3] Credo di si.</b>	Creo que sí.
+1566927228278	1566398531509	[sound:6 (3).mp3]Ecco la stazione di Milano.<br>	He aquí la estación de Milán.<br>
+1566927267511	1566398531509	<b>[sound:7 (3).mp3]La signora ha quattro valigie e un ombrello.</b><br>	La señora tiene cuatro maletas y un paraguas<br>
+1566927334133	1566398531509	[sound:8 (3).mp3][sound:9 (3).mp3]Facchino! Facchino!	Mozo! Mozo!
+1566927358072	1566398531509	[sound:10 (3).mp3]Che guaio : oggi i fac-<br>chini sono in sciopero.	Qué fastidio: hoy los mozos están<div>en huelga.<br></div>
+1566927399927	1566398531509	<b>[sound:11 (3).mp3]Marco aiuta la signora a portare le valigie</b><br>	Marcos ayuda a la señora a llevar las maletas<br>
+1566927434220	1566398531509	<b>[sound:12 (3).mp3] Porta anche l’ombrello!</b>	¡lleva también el paraguas!<br>
+1566927474693	1566398531509	<b>[sound:13 (3).mp3]Grazie mille, signore</b>	Muchísimas gracias, señor
+1566927514435	1566398531509	<b>[sound:14 (3).mp3]Lei è proprio gentile.</b><br>	usted es muy amable.
+1566927752147	1566398531509	<b>[sound:15 (3).mp3] Il treno è in orario.</b>	El tren esta en horario.
+1566927799354	1566398531509	<b>[sound:16 (3).mp3] I treni arrivano a Milano.</b><br>	Los trenes llegan a Milán.<br>
+1566927829990	1566398531509	<b>[sound:17 (3).mp3] La signora domanda l'ora.</b>	La señora pide la hora.
+1566927896818	1566398531509	<b>[sound:18 (3).mp3] Le signore portano le valigie.</b><br>	Las señoras llevan las maletas<br>
+1566927941343	1566398531509	<b>[sound:19 (1).mp3] Il controllore domanda il biglietto.</b>	El revisor pide el billete.
+1566927981396	1566398531509	<b>[sound:20.mp3] Il controllori guardano i biglietti.</b><br>	Los revisores miran los&nbsp;billetes.<br>
+1566928022883	1566398531509	<b>[sound:21.mp3] Ecco la stazione di Milano.</b>	He aquí la estación de Milán.
+1566928050279	1566398531509	<b>[sound:22.mp3] Le stazioni di Milano&nbsp; e di Roma hanno un traffico intenso.</b><br>	Las estaciones de Milán y de Roma tienen un tráfico intenso.<br>
+1566928119636	1566398531509	[sound:23.mp3] Lo scompartimento di Marco è il numero cinque.	El compartimento de Marcos es el número cinco.<br>
+1566928218941	1566398531509	<b>[sound:24.mp3] Gli scompartimenti sono pieni.</b>	Los compartimentos están llenos.<br>
+1566928252032	1566398531509	<b>[sound:25.mp3] La signora non trova l'ombrello.</b>	La señora no encuentra el paraguas.
+1566928276453	1566398531509	<b>[sound:26.mp3] Le signore&nbsp;non trovano gli ombrelli.</b>	Las señoras no encuentran los paraguas<br>
+1567022878629	1566398531509	[sound:3 (4).mp3]&nbsp;Marco entra in un bar.	Marcos entra en un bar.<br>
+1567023168669	1566398531509	[sound:4 (4).mp3]Un caffè ristretto, per favore!	Un café corto, por favor.
+1567023197246	1566398531509	[sound:5-1.mp3] Scusi, qual'è autobus per andare a via Verdi?	Perdone : ¿cuál es el&nbsp;autobús para ir a [la] calle Verdi?<br>
+1567023675889	1566398531509	[sound:5-2.mp3] Il trentasette. Oppure la metropolitana, linea B;	El treinta y siete. O el metro, linea B ;
+1567023769791	1566398531509	[sound:6 (4).mp3] ma è molto affollata a quest'ora<br>	pero esta muy concurrida a esta hora<br>
+1567023808734	1566398531509	[sound:7 (4).mp3] Il tempo è bello	el tiempo es bello ( hace buen tiempo )
+1567023846555	1566398531509	[sound:8 (4).mp3] e Marco decide di prendere&nbsp;l'autobus.	y Marcos&nbsp;decide de tomar el autobús<br>
+1567023886271	1566398531509	[sound:9 (4).mp3]&nbsp;E' una buona idea!	Es una buena idea!
+1567023911086	1566398531509	[sound:10 (4).mp3] L'autobus non è troppo<br>pieno.<br>	El autobús no está demasiado lleno.<br>
+1567023963658	1566398531509	[sound:11 (4).mp3] Scende dopo dieci minuti davanti al palazzo dove abitano Francesca e Davide.<br>	Baja después de diez minutos delante del edificio&nbsp;donde viven Francisca y David<br>
+1567024020594	1566398531509	[sound:12 (4).mp3]&nbsp;Prendi un caffè?	Tomas un café?
+1567024038841	1566398531509	[sound:13 (4).mp3][sound:14 (4).mp3] No, prendo un cappuccino.<br>	No, tomo un “cappuccino”.<br>
+1567024079378	1566398531509	[sound:15 (4).mp3]&nbsp;Prendete il taxi?	Tomáis (el) taxi?
+1567024114897	1566398531509	[sound:16 (4).mp3] No, é troppo caro<br>	No, es demasiado caro<br>
+1567024141442	1566398531509	[sound:17 (4).mp3] prediamo l'autobus	Tomamos el autobus<br>
+1567024189921	1566398531509	[sound:18 (4).mp3] La signora lori prende il taxi.	La señora lori toma el taxi.
+1567024233505	1566398531509	[sound:19 (2).mp3] I signori lori&nbsp;prendono il taxi.	Los señores lori&nbsp;cogen el taxi<br>
+1567024298540	1566398531509	[sound:20 (1).mp3] Questa signora è napoletana.	Esta señora es napolitana.
+1567024325941	1566398531509	[sound:21 (1).mp3] Questo signore, invence, è romano<br>	Este señor, en cambio,&nbsp;es romano
+1567024630525	1566398531509	[sound:2 (3).mp3] In via Verdi<br>	En calle Verdi
+1567024742306	1566398531509	[sound:3 (5).mp3] Via Verdi è una strada molto bella ma un po”rumorosa.	Calle Verdi es una calle muy bonita pero un<br>poco ruidosa.<br>
+1567024778993	1566398531509	[sound:4 (5).mp3] L'appartamento di Francesca e Davide è al&nbsp;quinto piano.<br>	El apartamento de Francisca y David está en la quinta&nbsp;planta.<br>
+1567024832979	1566398531509	[sound:5 (5).mp3]Marco chiama l'ascensore	Marcos llama al ascensor
+1567024870032	1566398531509	[sound:6 (5).mp3][sound:7 (5).mp3]<div>ma... l'ascensore è rotto!<br></div>	pero... ¡el ascensor&nbsp;está roto!
+1567024928480	1566398531509	[sound:8 (5).mp3]Accidenti!	Maldición!
+1567024960970	1566398531509	[sound:9 (5).mp3] com'è pesante questa valigia!	¡Cómo es pesada esta maleta!<br>
+1567025034625	1566398531509	[sound:10 (5).mp3] Ah, ecco la porta.<br>	Ah, aquí está la puerta.<br>
+1567025076611	1566398531509	[sound:11 (5).mp3]&nbsp;Benvenuto, Marco	Bienvenido, Marco!
+1567025107520	1566398531509	[sound:12 (5).mp3] accomodati!	pasa! (entra!)
+1567025234999	1566398531509	[sound:13 (5).mp3]&nbsp;Le strade sono affollate.	Las calles están llenas.
+1567025259548	1566398531509	[sound:14 (5).mp3] | negozi sono aperti.<br>	Las tiendas están<br>abiertas.&nbsp;<br>
+1567025285589	1566398531509	[sound:15 (5).mp3] Questo negozio è chiuso.	Esta tienda está cerrada.<br>
+1567025310261	1566398531509	[sound:16 (5).mp3]&nbsp;La valigia di Marco è pesante.	La maleta de Marcos es pesada.
+1567025339500	1566398531509	[sound:17 (5).mp3] Le valigie sono pesanti.	Las maletas son pesadas
+1567025414133	1566398531509	[sound:18 (5).mp3]&nbsp;L'appartamento è grande e comodo.	El piso es grande y cómodo.
+1567025446561	1566398531509	[sound:19 (3).mp3] Gli&nbsp;appartamenti sono grandi e comodi<br>	Los pisos son grandes&nbsp;y cómodos.<br>
+1567282640219	1566398531509	[sound:1-2.mp3]Ciao Marco! Benvenuto a casa nostra!	¡Hola Marcos! ¡Bienvenido a nuestra casa!
+1567282695851	1566398531509	[sound:2-2.mp3] Sono molto contento di vederti. - Anch'io!	Estoy&nbsp;muy contento de verte. - ¡Yo también!<br>
+1567282734812	1566398531509	[sound:3-2.mp3]&nbsp;Ma accomodati...	Pero acomódate. ...
+1567282767095	1566398531509	[sound:4-2.mp3] Questa è la tua camera da<br>letto,<br>	Este es la tuya cámara de dormir,<br>
+1567282794623	1566398531509	[sound:5 (6).mp3] e quella in fondo al corridoio è la stanza da&nbsp;bagno.<br>	y aquél, al final del pasillo, es zona de el baño<br>
+1567282868995	1566398531509	[sound:6-2.mp3] Metti qui la tua valigia e vieni con me in&nbsp;cucina	Pon aquí la tuya maleta y ven conmigo a la cocina
+1567282919614	1566398531509	[sound:7-2.mp3] ti preparo un caffè. Che carina la vostra casa!<br>	Te preparo un café. Que bonita la vuestra casa !
+1567283002186	1566398531509	[sound:8-2.mp3] Sì, non è male, è abbastanza comoda.<br>	Sí, no está mal, es bastante cómoda.<br>
+1567283039453	1566398531509	[sound:9-2.mp3] Vedi, questo è il nostro soggiorno, e quello&nbsp;è il mio studio.<br>	Mira, éste es el nuestro cuarto de estar,y aquél es el mi estudio.
+1567283110318	1566398531509	[sound:10-2.mp3] Davide mostra<br> a&nbsp;Marco il suo appartamento.<br>	David enseña a Marcos el suyo piso.<br>
+1567283164224	1566398531509	[sound:11-2.mp3]&nbsp;Francesca e Davide sono molto contenti	Francisca y David están muy contentos
+1567283197218	1566398531509	[sound:12-2.mp3] il&nbsp;loro nuovo appartamento é proprio carino.<br>	el suyo nuevo piso es realmente bonito.<br>
+1567283290271	1566398531509	[sound:13-2.mp3] Questa è la vostra camera da letto, e quello&nbsp;è il vostro bagno.	Este es la vuestra cámara de dormir y aquél es el vuestro baño.<br>
+1567283317732	1566398531509	[sound:14-2.mp3] Che buono questo caffè!<br>	¡Qué bueno es este café!<br>
+1567283418683	1566398531509	[sound:1.mp3] Come stai?<br>	¿Cómo estás?<br>
+1567283549417	1566398531509	[sound:2 (4).mp3] Come stanno Francesca e i bambini?&nbsp;<div>- Bene, tornano a casa fra poco.<br></div>	<div>¿Cómo están Francisca y los niños?<br></div>- Bien, vuelven a casa dentro de poco.
+1567283616716	1566398531509	[sound:3 (6).mp3] Toh, sento arrivare l'ascensore, apriamo la&nbsp;porta.	¡Vaya! Siento llegar el ascensor, abramos la puerta.<br>
+1567283688019	1566398531509	[sound:4-1.mp3]&nbsp;Salve Marco, sei già qui! Come stai? &nbsp;<div>- Ciao Roberto, ciao Lisa, come state?<br></div>	¡Hola Marcos, estás ya aquí! ¿Cómo estás?<div>- Hola Roberto, hola Lisa, ¿Cómo estáis?<br></div>
+1567283958999	1566398531509	[sound:4-2 (1).mp3] Noi stiamo bene, ma sai, il nostro gattino&nbsp;non sta affatto bene, hail raffreddore...<br><div>- Oh, poverino!</div>	Nosotros estamos bien, ¿pero sabes? El Nuestro gatito no está nada bien, tiene un constipado...<div>- ¡Oh, pobrecito!</div>
+1567284018823	1566398531509	[sound:5 (7).mp3] Bambini,&nbsp;se aprite la mia&nbsp;valigia, ci trovate un regalo per voi!<br><div>- Evviva!</div>	¡Niños, si abrís la mía maleta, encontraréis un regalo para vosotros!<br>- ¡Viva!<br>
+1567284078240	1566398531509	[sound:6 (6).mp3] Davide offre un aperitivo a Marco.	David ofrece un aperitivo a Marcos.
+1567284104708	1566398531509	[sound:7 (6).mp3] Lisa, per favore, apri la finestra!<br>	¡Lisa, por favor, abre la ventana!<br>
+1567284127174	1566398531509	[sound:8 (6).mp3] Oggi sto bene, non sono più raffreddato.<br>	Hoy estoy bien, no estoy más constipado.<br>
+1567284164699	1566398531509	[sound:9 (6).mp3] Davide e Francesca offrono ospitalità a&nbsp;Marco per una settimana.	David y Francisca ofrecen hospitalidad a Marcos&nbsp;por una semana.<br>
+1567284216873	1566398531509	[sound:11 (6).mp3]Ciao Isabella, come stai?	¡Hola Isabel! ¿Cómo estás?
+1567284277120	1566398531509	[sound:12 (6).mp3] Non sto affatto<br>bene, sono raffreddata.	No estoy nada&nbsp;bien, estoy constipada.
+1567284302609	1566398531509	[sound:13 (6).mp3]&nbsp;Oh, poverina!	¡Oh, pobrecita!
+1567284324211	1566398531509	[sound:14 (6).mp3] Francesca è a casa?<br>	¿Francisca está en&nbsp;casa?
+1567284368375	1566398531509	[sound:15 (6).mp3] No, ma torna fra poco.	No, pero vuelve dentro de poco.
+1567284401880	1566398531509	[sound:16 (6).mp3] To', quello è il mio amico Carlo	¡Vaya, aquél es el mio amigo Carlos
+1567284433577	1566398531509	[sound:17 (6).mp3] Offrite un caffé a Marco.<br>	Ofreced un café a Marcos.<br>
+1567284449239	1566398531509	[sound:1 (1).mp3] A tavola!<br>	¡A la mesa!<br>
+1567284580782	1566398531509	[sound:2 (5).mp3] A tavola, il pranzo è pronto! Ecco le mie&nbsp;specialità.	¡A la mesa, la comida está preparada! He aquí las mías&nbsp;especialidades!<br>
+1567284693218	1566398531509	[sound:3 (7).mp3] Risotto e cotolette alla milanese, naturalmente!<br>- Magnifico! Sono i miei piatti preferiti!<br>	“Risotto” y chuletas a la milanesa, ¡naturalmente!<br>- ¡Magnífico! ¡Son mis platos preferidos!
+1567284778763	1566398531509	[sound:4 (7).mp3]&nbsp;Ed ecco un'ottima bottiglia di Barbera...	Y he aquí una óptima botella de “Barbera”.<br>
+1567284890479	1566398531509	[sound:5 (8).mp3] Sai, Davide, apprezzo molto anche le tue specialità: i tuoi vini sono sempre eccellenti!<br>	Sabes, David, aprecio mucho también tus&nbsp;especialidades: ¡Tus vinos son siempre excelentes!<br>
+1567285013682	1566398531509	[sound:6 (7).mp3] Francesca prepara le sue specialità: sono i&nbsp;piatti tipici di Milano.<br>	Francisca prepara sus especialidades : son los platos&nbsp;típicos de Milán.<br>
+1567285056233	1566398531509	[sound:7-1.mp3] Quali sono i vostri piatti preferiti?<br>	¿Cuáles son vuestros platos preferidos?
+1567285400756	1566398531509	[sound:7-2 (1).mp3] | nostri piatti preferiti sono le lasagne alla&nbsp;bolognese e gli spaghetti alla carbonara.<br>	Nuestros platos preferidos son las lasañas a la&nbsp;boloñesa y los espaguetis “a la carbonara"<br>
+1567285481070	1566398531509	[sound:7-3.mp3] Bambini, non mangiate le vostre tagliatelle&nbsp;così rumorosamente!	Niños, no os comais vuestros tallarines tan ruidosamente!<br>
+1567285532156	1566398531509	[sound:8 (7).mp3] Il loro ospite apprezza la cucina milanese.	Su huesped aprecia la cocina milanesa.
+1567285636149	1566398531509	[sound:9 (7).mp3] Carlo e Isabella aspettano i loro amici a cena.<br>	Carlos e Isabel esperan sus amigos para cenar.<br>
+1567285689460	1566398531509	[sound:10 (6).mp3] La mattina Davide prepara la colazione peri&nbsp;suoi bambini.<br>	Por la mañana, David prepara el desayuno para&nbsp;sus niños.<br>
+1567285755458	1566398531509	[sound:12 (7).mp3]&nbsp;Quali sono le tue specialità?	¿Cuáles son tus especialidades?
+1567286049790	1566398531509	[sound:13 (7).mp3] I tuoi vini&nbsp;sono ottimi.	Tus vinos&nbsp;son óptimos.
+1567286085551	1566398531509	[sound:14 (7).mp3] Carlo e Isabella aspettano i loro amici a&nbsp;cena.	Carlos e Isabel esperan a sus amigos para cenar.<br>
+1567286110975	1566398531509	[sound:15 (7).mp3]&nbsp;Magnifico! Sono i nostri piatti preferiti!	¡Magnífico! ¡Son nuestros platos preferidos!
+1567286133762	1566398531509	[sound:16 (7).mp3] Qual è<br>il pranzo di oggi?	¿Cual es la comida de hoy?
+1567286190233	1566398531509	[sound:17 (7).mp3]&nbsp;Lasagne e cotolette.	Lasañas y chuletas.
+1567286231989	1566398531509	[sound:18 (6).mp3]Davide&nbsp;prepara la colazione per i suoi bambini.<br>	David prepara el desayuno para<br>sus niños.<br>
+1607570748109	1602469857724	[sound:3.mp3] Pronto! Vorrei parlare con Davide	per favore.	Pronto! Desejo falar com David
+1607570748110	1602469857724	[sound:10.mp3] Benissimo! A domani	allora. Muito bem! Até amanhã
+1607571542280	1602469857724	[sound	3.mp3] Pronto! Vorrei parlare con Davide, per favore
+1607571606318	1602469857724	[sound	3.mp3] Pronto! Vorrei parlare con Davide, per favore
+1607571606319	1602469857724	[sound	4.mp3] Davide non é a casa
+1607571606320	1602469857724	[sound	5.mp3] lo sono Francesca. Chi é?
+1607571606321	1602469857724	[sound	6.mp3] Sono Marco
+1607571606322	1602469857724	[sound	7.mp3] Ciao, Francesca! Come va? Bene, grazie, e tu? - Benissimo!
+1607571606323	1602469857724	[sound	8.mp3] Sei a Milano?
+1607571606324	1602469857724	[sound	9.mp3] No, non sono a Milano, sono a Roma.Arrivo a Milano domani mattina
+1607571606325	1602469857724	[sound	10.mp3] Benissimo! A domani, allora.
+1607571606326	1602469857724	[sound	13.mp3] Sei di Milano?
+1607571606327	1602469857724	[sound	16.mp3] Marco è di Roma
+1607571606328	1602469857724	[sound	17.mp3] Francesca e Davide sono di Milano
+1607571606329	1602469857724	[sound	18.mp3] Siete di Firenze?
+1607571606330	1602469857724	[sound	19.mp3] No, non siamo di Firenze, siamo di Bologna
+1607802707954	1602469857724	[sound:3.mp3] Pronto! Vorrei parlare con Davide, per favore	Pronto! Desejo falar com David, por favor.
+1607802707955	1602469857724	[sound:4.mp3] Davide non é a casa	David não está em casa
+1607802707956	1602469857724	[sound:5.mp3] lo sono Francesca. Chi é?	Eu sou Francisca. Quem é?
+1607802707957	1602469857724	[sound:6.mp3] Sono Marco	Sou Marcos.
+1607802707958	1602469857724	[sound:7.mp3] Ciao, Francesca! Come va? Bene, grazie, e tu? - Benissimo!	Olá Francisca!Como vai? Bem,obrigada, e você? - Muito bem!
+1607802707959	1602469857724	[sound:8.mp3] Sei a Milano?	Você está em Milão?
+1607802707960	1602469857724	[sound:9.mp3] No, non sono a Milano, sono a Roma.Arrivo a Milano domani mattina	Não, não estou em Milão. Estou em Roma. Chegou em Milão amanhã de manhã.
+1607802707961	1602469857724	[sound:10.mp3] Benissimo! A domani, allora.	Muito bem! Até amanhã, então.
+1607802707962	1602469857724	[sound:13.mp3] Sei di Milano?	(Você) É de Milão?
+1607802707963	1602469857724	[sound:16.mp3] Marco è di Roma	Marcos é de Roma
+1607802707964	1602469857724	[sound:17.mp3] Francesca e Davide sono di Milano	Francisca e David são de Milão
+1607802707965	1602469857724	[sound:18.mp3] Siete di Firenze?	(Vocês) São de Florença?
+1607802707966	1602469857724	[sound:19.mp3] No, non siamo di Firenze, siamo di Bologna	Não, não somos de Florença, somos de Bologna.
+1607966447547	1602469857724	[sound:3.mp3] Pronto! Vorrei parlare con Davide, per favore	Pronto! Desejo falar com David, por favor.
+1607966447548	1602469857724	[sound:4.mp3] Davide non é a casa	David não está em casa
+1607966447549	1602469857724	[sound:5.mp3] lo sono Francesca. Chi é?	Eu sou Francisca. Quem é?
+1607966447550	1602469857724	[sound:6.mp3] Sono Marco	Sou Marcos.
+1607966447551	1602469857724	[sound:7.mp3] Ciao, Francesca! Come va? Bene, grazie, e tu? - Benissimo!	Olá Francisca!Como vai? Bem,obrigada, e você? - Muito bem!
+1607966447552	1602469857724	[sound:8.mp3] Sei a Milano?	Você está em Milão?
+1607966447553	1602469857724	[sound:9.mp3] No, non sono a Milano, sono a Roma.Arrivo a Milano domani mattina	Não, não estou em Milão. Estou em Roma. Chegou em Milão amanhã de manhã.
+1607966447554	1602469857724	[sound:10.mp3] Benissimo! A domani, allora.	Muito bem! Até amanhã, então.
+1607966447555	1602469857724	[sound:13.mp3] Sei di Milano?	(Você) É de Milão?
+1607966447556	1602469857724	[sound:16.mp3] Marco è di Roma	Marcos é de Roma
+1607966447557	1602469857724	[sound:17.mp3] Francesca e Davide sono di Milano	Francisca e David são de Milão
+1607966447558	1602469857724	[sound:18.mp3] Siete di Firenze?	(Vocês) São de Florença?
+1607966447559	1602469857724	[sound:19.mp3] No, non siamo di Firenze, siamo di Bologna	Não, não somos de Florença, somos de Bologna.
+1607966735510	1602469857724	[sound:2.mp3] Alla stazione	Na estação
+1607966735511	1602469857724	[sound:3 (1).mp3] Buongiorno, signorina. Vorrei un bigletto diseconda classe per Milano	Bom dia, senhorita. Desejo um bilhete de segunda classe para Milão
+1607966735512	1602469857724	[sound:4 (1).mp3] E un'informazione, per cortesia	E uma informação, por cortesia
+1607966735513	1602469857724	[sound:5 (1).mp3] questo treno ha un vagone-ristorante? - No, non cel'ha	Este trêm tem um vagão restaurante? - Não, não tem
+1607966735514	1602469857724	[sound:6 (1).mp3] Marco, hai un giornale per il viaggio?	Marcos, você tem um jornal para a viagem?
+1607966735515	1602469857724	[sound:7 (1).mp3] Si, ce l'ho, e ho anche una rivista	Sim, tenho, e tenho também uma revista
+1607966735516	1602469857724	[sound:8 (1).mp3] Marco ha un posto in uno scompartimento per fumatori	Marcos tem um lugar em um compartimento para fumantes
+1607966735517	1602469857724	[sound:9 (1).mp3] Ha un pacchetto di sigarette, ma non ha un accendino	Tem um maço de cigarros, mas não tem um isqueiro
+1607966735518	1602469857724	[sound:11 (1).mp3] Io non ho da accendere	Eu não tenho acendedor(fogo)
+1607966735519	1602469857724	[sound:12 (1).mp3] Tu hai una rivista	Tu tens uma revista
+1607966735520	1602469857724	[sound:13 (1).mp3] Lui ha un accendino	Ele tem um isqueiro
+1607966735521	1602469857724	[sound:14 (1).mp3] lei non ha un giornale. Noi abbiamo un'amica a Milano	Ela não tem um jornal. Nós temos uma amiga em Milão
+1607966735522	1602469857724	[sound:15 (1).mp3] Voi avete un amico a Roma	Vós tendes um amigo em Roma
+1607966735523	1602469857724	[sound:16 (1).mp3] Loro hanno una valigia	Eles tem uma mala
+1607966735524	1602469857724	[sound:17 (1).mp3] Scusi, signore, ha una sigaretta?	Perdão, senhor, tens um cigarro?
+1607966735525	1602469857724	[sound:18 (1).mp3] No, non ce l'ho	Não, não tenho.
+1607966838508	1602469857724	[sound:2.mp3] Alla stazione; Na estação	
+1607966838509	1602469857724	[sound:3 (1).mp3] Buongiorno, signorina. Vorrei un bigletto diseconda classe per Milano; Bom dia, senhorita. Desejo um bilhete de segunda classe para Milão	
+1607966838510	1602469857724	[sound:4 (1).mp3] E un'informazione, per cortesia; E uma informação, por cortesia	
+1607966838511	1602469857724	[sound:5 (1).mp3] questo treno ha un vagone-ristorante? - No, non cel'ha; Este trêm tem um vagão restaurante? - Não, não tem	
+1607966838512	1602469857724	[sound:6 (1).mp3] Marco, hai un giornale per il viaggio?; Marcos, você tem um jornal para a viagem?	
+1607966838513	1602469857724	[sound:7 (1).mp3] Si, ce l'ho, e ho anche una rivista; Sim, tenho, e tenho também uma revista	
+1607966838514	1602469857724	[sound:8 (1).mp3] Marco ha un posto in uno scompartimento per fumatori; Marcos tem um lugar em um compartimento para fumantes	
+1607966838515	1602469857724	[sound:9 (1).mp3] Ha un pacchetto di sigarette, ma non ha un accendino; Tem um maço de cigarros, mas não tem um isqueiro	
+1607966838516	1602469857724	[sound:10 (1).mp3] Scusi, Lei ha da accendere? - Si. certo. Deculpe, tem um acendedor(isqueiro)? - Sim. Certamente	
+1607966838517	1602469857724	[sound:11 (1).mp3] Io non ho da accendere; Eu não tenho acendedor(fogo)	
+1607966838518	1602469857724	[sound:12 (1).mp3] Tu hai una rivista; Tu tens uma revista	
+1607966838519	1602469857724	[sound:13 (1).mp3] Lui ha un accendino; Ele tem um isqueiro	
+1607966838520	1602469857724	[sound:14 (1).mp3] lei non ha un giornale. Noi abbiamo un'amica a Milano; Ela não tem um jornal. Nós temos uma amiga em Milão	
+1607966838521	1602469857724	[sound:15 (1).mp3] Voi avete un amico a Roma; Vós tendes um amigo em Roma	
+1607966838522	1602469857724	[sound:16 (1).mp3] Loro hanno una valigia; Eles tem uma mala	
+1607966838523	1602469857724	[sound:17 (1).mp3] Scusi, signore, ha una sigaretta?; Perdão, senhor, tens um cigarro?	
+1607966838524	1602469857724	[sound:18 (1).mp3] No, non ce l'ho; Não, não tenho.	
+1607966887413	1602469857724	[sound:2.mp3] Alla stazione	Na estação
+1607966887414	1602469857724	[sound:3 (1).mp3] Buongiorno, signorina. Vorrei un bigletto diseconda classe per Milano	Bom dia, senhorita. Desejo um bilhete de segunda classe para Milão
+1607966887415	1602469857724	[sound:4 (1).mp3] E un'informazione, per cortesia	E uma informação, por cortesia
+1607966887416	1602469857724	[sound:5 (1).mp3] questo treno ha un vagone-ristorante? - No, non cel'ha	Este trêm tem um vagão restaurante? - Não, não tem
+1607966887417	1602469857724	[sound:6 (1).mp3] Marco, hai un giornale per il viaggio?	Marcos, você tem um jornal para a viagem?
+1607966887418	1602469857724	[sound:7 (1).mp3] Si, ce l'ho, e ho anche una rivista	Sim, tenho, e tenho também uma revista
+1607966887419	1602469857724	[sound:8 (1).mp3] Marco ha un posto in uno scompartimento per fumatori	Marcos tem um lugar em um compartimento para fumantes
+1607966887420	1602469857724	[sound:9 (1).mp3] Ha un pacchetto di sigarette, ma non ha un accendino	Tem um maço de cigarros, mas não tem um isqueiro
+1607966887421	1602469857724	[sound:11 (1).mp3] Io non ho da accendere	Eu não tenho acendedor(fogo)
+1607966887422	1602469857724	[sound:12 (1).mp3] Tu hai una rivista	Tu tens uma revista
+1607966887423	1602469857724	[sound:13 (1).mp3] Lui ha un accendino	Ele tem um isqueiro
+1607966887424	1602469857724	[sound:14 (1).mp3] lei non ha un giornale. Noi abbiamo un'amica a Milano	Ela não tem um jornal. Nós temos uma amiga em Milão
+1607966887425	1602469857724	[sound:15 (1).mp3] Voi avete un amico a Roma	Vós tendes um amigo em Roma
+1607966887426	1602469857724	[sound:16 (1).mp3] Loro hanno una valigia	Eles tem uma mala
+1607966887427	1602469857724	[sound:17 (1).mp3] Scusi, signore, ha una sigaretta?	Perdão, senhor, tens um cigarro?
+1607966887428	1602469857724	[sound:18 (1).mp3] No, non ce l'ho	Não, não tenho.
+1607966929875	1602469857724	[sound:18 (1).mp3] No, non ce l'ho	Não, não tenho.
+1607966929860	1602469857724	[sound:2.mp3] Alla stazione	Na estação
+1607966929861	1602469857724	[sound:3 (1).mp3] Buongiorno, signorina. Vorrei un bigletto diseconda classe per Milano	Bom dia, senhorita. Desejo um bilhete de segunda classe para Milão
+1607966929862	1602469857724	[sound:4 (1).mp3] E un'informazione, per cortesia	E uma informação, por cortesia
+1607966929863	1602469857724	[sound:5 (1).mp3] questo treno ha un vagone-ristorante? - No, non cel'ha	Este trêm tem um vagão restaurante? - Não, não tem
+1607966929864	1602469857724	[sound:6 (1).mp3] Marco, hai un giornale per il viaggio?	Marcos, você tem um jornal para a viagem?
+1607966929865	1602469857724	[sound:7 (1).mp3] Si, ce l'ho, e ho anche una rivista	Sim, tenho, e tenho também uma revista
+1607966929866	1602469857724	[sound:8 (1).mp3] Marco ha un posto in uno scompartimento per fumatori	Marcos tem um lugar em um compartimento para fumantes
+1607966929867	1602469857724	[sound:9 (1).mp3] Ha un pacchetto di sigarette, ma non ha un accendino	Tem um maço de cigarros, mas não tem um isqueiro
+1607966929868	1602469857724	[sound:11 (1).mp3] Io non ho da accendere	Eu não tenho acendedor(fogo)
+1607966929869	1602469857724	[sound:12 (1).mp3] Tu hai una rivista	Tu tens uma revista
+1607966929870	1602469857724	[sound:13 (1).mp3] Lui ha un accendino	Ele tem um isqueiro
+1607966929871	1602469857724	[sound:14 (1).mp3] lei non ha un giornale. Noi abbiamo un'amica a Milano	Ela não tem um jornal. Nós temos uma amiga em Milão
+1607966929872	1602469857724	[sound:15 (1).mp3] Voi avete un amico a Roma	Vós tendes um amigo em Roma
+1607966929873	1602469857724	[sound:16 (1).mp3] Loro hanno una valigia	Eles tem uma mala
+1607966929874	1602469857724	[sound:17 (1).mp3] Scusi, signore, ha una sigaretta?	Perdão, senhor, tens um cigarro?
+1607966591228	1602469857724	[sound:3.mp3] Pronto! Vorrei parlare con Davide, per favore	Pronto! Desejo falar com David, por favor.
+1607966591229	1602469857724	[sound:4.mp3] Davide non é a casa	David não está em casa
+1607966591230	1602469857724	[sound:5.mp3] lo sono Francesca. Chi é?	Eu sou Francisca. Quem é?
+1607966591231	1602469857724	[sound:6.mp3] Sono Marco	Sou Marcos.
+1607966591232	1602469857724	[sound:7.mp3] Ciao, Francesca! Come va? Bene, grazie, e tu? - Benissimo!	Olá Francisca!Como vai? Bem,obrigada, e você? - Muito bem!
+1607966591233	1602469857724	[sound:8.mp3] Sei a Milano?	Você está em Milão?
+1607966591234	1602469857724	[sound:9.mp3] No, non sono a Milano, sono a Roma.Arrivo a Milano domani mattina	Não, não estou em Milão. Estou em Roma. Chegou em Milão amanhã de manhã.
+1607966591235	1602469857724	[sound:10.mp3] Benissimo! A domani, allora.	Muito bem! Até amanhã, então.
+1607966591236	1602469857724	[sound:13.mp3] Sei di Milano?	(Você) É de Milão?
+1607966591237	1602469857724	[sound:16.mp3] Marco è di Roma	Marcos é de Roma
+1607966591238	1602469857724	[sound:17.mp3] Francesca e Davide sono di Milano	Francisca e David são de Milão
+1607966591239	1602469857724	[sound:18.mp3] Siete di Firenze?	(Vocês) São de Florença?
+1607966591240	1602469857724	[sound:19.mp3] No, non siamo di Firenze, siamo di Bologna	Não, não somos de Florença, somos de Bologna.

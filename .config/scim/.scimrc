@@ -1,0 +1,10 @@
+set autocalc
+set numeric
+set numeric_decimal=0
+set overlap
+set xlsx_readformulas
+set newline_action=l
+set ignorecase
+
+color "type=STRG bold=0 fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+color "type=CELL_SELECTION fg=DEFAULT_COLOR bg=DEFAULT_COLOR"

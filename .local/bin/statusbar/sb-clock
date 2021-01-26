@@ -1,0 +1,4 @@
+#!/bin/sh
+
+datetime="$(date "+%a %d %b %H:%M")"
+echo ""$datetime
